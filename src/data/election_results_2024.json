@@ -1,0 +1,8288 @@
+[
+  {
+    "id": "北海道_1区",
+    "prefecture": "北海道",
+    "name": "北海道1区",
+    "candidates": [
+      {
+        "id": "北海道_1区_道下　大樹",
+        "name": "道下　大樹",
+        "party": "立民",
+        "votes": 108394,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_1区_加藤　貴弘",
+        "name": "加藤　貴弘",
+        "party": "自民",
+        "votes": 80133,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_1区_千葉　尚子",
+        "name": "千葉　尚子",
+        "party": "共産",
+        "votes": 21451,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_1区_田中　義人",
+        "name": "田中　義人",
+        "party": "参政",
+        "votes": 20097,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_1区_小林　悟",
+        "name": "小林　悟",
+        "party": "維新",
+        "votes": 20000,
+        "is_winner": false
+      }
+    ],
+    "margin": 28261,
+    "total_votes": 250075
+  },
+  {
+    "id": "北海道_2区",
+    "prefecture": "北海道",
+    "name": "北海道2区",
+    "candidates": [
+      {
+        "id": "北海道_2区_松木　謙公",
+        "name": "松木　謙公",
+        "party": "立民",
+        "votes": 94002,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_2区_高橋　祐介",
+        "name": "高橋　祐介",
+        "party": "自民",
+        "votes": 76835,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_2区_山崎　泉",
+        "name": "山崎　泉",
+        "party": "維新",
+        "votes": 32073,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_2区_宮内　史織",
+        "name": "宮内　史織",
+        "party": "共産",
+        "votes": 31855,
+        "is_winner": false
+      }
+    ],
+    "margin": 17167,
+    "total_votes": 234765
+  },
+  {
+    "id": "北海道_3区",
+    "prefecture": "北海道",
+    "name": "北海道3区",
+    "candidates": [
+      {
+        "id": "北海道_3区_荒井　優",
+        "name": "荒井　優",
+        "party": "立民",
+        "votes": 100136,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_3区_高木　宏壽",
+        "name": "高木　宏壽",
+        "party": "自民",
+        "votes": 83089,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_3区_伊藤　理智子",
+        "name": "伊藤　理智子",
+        "party": "共産",
+        "votes": 22915,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_3区_鳥越　良孝",
+        "name": "鳥越　良孝",
+        "party": "維新",
+        "votes": 21802,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_3区_増田　健治",
+        "name": "増田　健治",
+        "party": "無",
+        "votes": 11972,
+        "is_winner": false
+      }
+    ],
+    "margin": 17047,
+    "total_votes": 239914
+  },
+  {
+    "id": "北海道_4区",
+    "prefecture": "北海道",
+    "name": "北海道4区",
+    "candidates": [
+      {
+        "id": "北海道_4区_大築　紅葉",
+        "name": "大築　紅葉",
+        "party": "立民",
+        "votes": 101484,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_4区_中村　裕之",
+        "name": "中村　裕之",
+        "party": "自民",
+        "votes": 94090,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_4区_佐々木　明美",
+        "name": "佐々木　明美",
+        "party": "共産",
+        "votes": 19063,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_4区_斎藤　佳代",
+        "name": "斎藤　佳代",
+        "party": "無",
+        "votes": 10322,
+        "is_winner": false
+      }
+    ],
+    "margin": 7394,
+    "total_votes": 224959
+  },
+  {
+    "id": "北海道_5区",
+    "prefecture": "北海道",
+    "name": "北海道5区",
+    "candidates": [
+      {
+        "id": "北海道_5区_池田　真紀",
+        "name": "池田　真紀",
+        "party": "立民",
+        "votes": 125444,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_5区_和田　義明",
+        "name": "和田　義明",
+        "party": "自民",
+        "votes": 100893,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_5区_鈴木　龍次",
+        "name": "鈴木　龍次",
+        "party": "共産",
+        "votes": 16399,
+        "is_winner": false
+      }
+    ],
+    "margin": 24551,
+    "total_votes": 242736
+  },
+  {
+    "id": "北海道_6区",
+    "prefecture": "北海道",
+    "name": "北海道6区",
+    "candidates": [
+      {
+        "id": "北海道_6区_東　国幹",
+        "name": "東　国幹",
+        "party": "自民",
+        "votes": 100694,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_6区_西川　将人",
+        "name": "西川　将人",
+        "party": "立民",
+        "votes": 94193,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_6区_荻生　和敏",
+        "name": "荻生　和敏",
+        "party": "共産",
+        "votes": 19909,
+        "is_winner": false
+      }
+    ],
+    "margin": 6501,
+    "total_votes": 214796
+  },
+  {
+    "id": "北海道_7区",
+    "prefecture": "北海道",
+    "name": "北海道7区",
+    "candidates": [
+      {
+        "id": "北海道_7区_鈴木　貴子",
+        "name": "鈴木　貴子",
+        "party": "自民",
+        "votes": 77189,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_7区_篠田　奈保子",
+        "name": "篠田　奈保子",
+        "party": "立民",
+        "votes": 54888,
+        "is_winner": false
+      }
+    ],
+    "margin": 22301,
+    "total_votes": 132077
+  },
+  {
+    "id": "北海道_8区",
+    "prefecture": "北海道",
+    "name": "北海道8区",
+    "candidates": [
+      {
+        "id": "北海道_8区_逢坂　誠二",
+        "name": "逢坂　誠二",
+        "party": "立民",
+        "votes": 97758,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_8区_向山　淳",
+        "name": "向山　淳",
+        "party": "自民",
+        "votes": 83006,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_8区_本間　勝美",
+        "name": "本間　勝美",
+        "party": "共産",
+        "votes": 11708,
+        "is_winner": false
+      }
+    ],
+    "margin": 14752,
+    "total_votes": 192472
+  },
+  {
+    "id": "北海道_9区",
+    "prefecture": "北海道",
+    "name": "北海道9区",
+    "candidates": [
+      {
+        "id": "北海道_9区_山岡　達丸",
+        "name": "山岡　達丸",
+        "party": "立民",
+        "votes": 106007,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_9区_松下　英樹",
+        "name": "松下　英樹",
+        "party": "自民",
+        "votes": 62328,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_9区_立野　広志",
+        "name": "立野　広志",
+        "party": "共産",
+        "votes": 20557,
+        "is_winner": false
+      }
+    ],
+    "margin": 43679,
+    "total_votes": 188892
+  },
+  {
+    "id": "北海道_10区",
+    "prefecture": "北海道",
+    "name": "北海道10区",
+    "candidates": [
+      {
+        "id": "北海道_10区_神谷　裕",
+        "name": "神谷　裕",
+        "party": "立民",
+        "votes": 78362,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_10区_稲津　久",
+        "name": "稲津　久",
+        "party": "公明",
+        "votes": 75990,
+        "is_winner": false
+      }
+    ],
+    "margin": 2372,
+    "total_votes": 154352
+  },
+  {
+    "id": "北海道_11区",
+    "prefecture": "北海道",
+    "name": "北海道11区",
+    "candidates": [
+      {
+        "id": "北海道_11区_石川　香織",
+        "name": "石川　香織",
+        "party": "立民",
+        "votes": 84522,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_11区_中川　郁子",
+        "name": "中川　郁子",
+        "party": "自民",
+        "votes": 66877,
+        "is_winner": false
+      },
+      {
+        "id": "北海道_11区_佐藤　耕平",
+        "name": "佐藤　耕平",
+        "party": "共産",
+        "votes": 10367,
+        "is_winner": false
+      }
+    ],
+    "margin": 17645,
+    "total_votes": 161766
+  },
+  {
+    "id": "北海道_12区",
+    "prefecture": "北海道",
+    "name": "北海道12区",
+    "candidates": [
+      {
+        "id": "北海道_12区_武部　新",
+        "name": "武部　新",
+        "party": "自民",
+        "votes": 78645,
+        "is_winner": true
+      },
+      {
+        "id": "北海道_12区_川原田　英世",
+        "name": "川原田　英世",
+        "party": "立民",
+        "votes": 71608,
+        "is_winner": false
+      }
+    ],
+    "margin": 7037,
+    "total_votes": 150253
+  },
+  {
+    "id": "青森県_1区",
+    "prefecture": "青森県",
+    "name": "青森県1区",
+    "candidates": [
+      {
+        "id": "青森県_1区_津島　淳",
+        "name": "津島　淳",
+        "party": "自民",
+        "votes": 76265,
+        "is_winner": true
+      },
+      {
+        "id": "青森県_1区_升田　世喜男",
+        "name": "升田　世喜男",
+        "party": "立民",
+        "votes": 71211,
+        "is_winner": false
+      },
+      {
+        "id": "青森県_1区_斎藤　美緒",
+        "name": "斎藤　美緒",
+        "party": "共産",
+        "votes": 18212,
+        "is_winner": false
+      }
+    ],
+    "margin": 5054,
+    "total_votes": 165688
+  },
+  {
+    "id": "青森県_2区",
+    "prefecture": "青森県",
+    "name": "青森県2区",
+    "candidates": [
+      {
+        "id": "青森県_2区_神田　潤一",
+        "name": "神田　潤一",
+        "party": "自民",
+        "votes": 82784,
+        "is_winner": true
+      },
+      {
+        "id": "青森県_2区_松尾　和彦",
+        "name": "松尾　和彦",
+        "party": "無",
+        "votes": 56674,
+        "is_winner": false
+      },
+      {
+        "id": "青森県_2区_金濱　亨",
+        "name": "金濱　亨",
+        "party": "国民",
+        "votes": 33569,
+        "is_winner": false
+      },
+      {
+        "id": "青森県_2区_久保　将",
+        "name": "久保　将",
+        "party": "共産",
+        "votes": 9397,
+        "is_winner": false
+      }
+    ],
+    "margin": 26110,
+    "total_votes": 182424
+  },
+  {
+    "id": "青森県_3区",
+    "prefecture": "青森県",
+    "name": "青森県3区",
+    "candidates": [
+      {
+        "id": "青森県_3区_岡田　華子",
+        "name": "岡田　華子",
+        "party": "立民",
+        "votes": 86593,
+        "is_winner": true
+      },
+      {
+        "id": "青森県_3区_木村　次郎",
+        "name": "木村　次郎",
+        "party": "自民",
+        "votes": 73848,
+        "is_winner": false
+      },
+      {
+        "id": "青森県_3区_長坂　淳也",
+        "name": "長坂　淳也",
+        "party": "維新",
+        "votes": 7747,
+        "is_winner": false
+      },
+      {
+        "id": "青森県_3区_其田　寿一",
+        "name": "其田　寿一",
+        "party": "無",
+        "votes": 6531,
+        "is_winner": false
+      }
+    ],
+    "margin": 12745,
+    "total_votes": 174719
+  },
+  {
+    "id": "岩手県_1区",
+    "prefecture": "岩手県",
+    "name": "岩手県1区",
+    "candidates": [
+      {
+        "id": "岩手県_1区_階　猛",
+        "name": "階　猛",
+        "party": "立民",
+        "votes": 94409,
+        "is_winner": true
+      },
+      {
+        "id": "岩手県_1区_米内　紘正",
+        "name": "米内　紘正",
+        "party": "自民",
+        "votes": 43623,
+        "is_winner": false
+      },
+      {
+        "id": "岩手県_1区_吉田　恭子",
+        "name": "吉田　恭子",
+        "party": "共産",
+        "votes": 15367,
+        "is_winner": false
+      }
+    ],
+    "margin": 50786,
+    "total_votes": 153399
+  },
+  {
+    "id": "岩手県_2区",
+    "prefecture": "岩手県",
+    "name": "岩手県2区",
+    "candidates": [
+      {
+        "id": "岩手県_2区_鈴木　俊一",
+        "name": "鈴木　俊一",
+        "party": "自民",
+        "votes": 115774,
+        "is_winner": true
+      },
+      {
+        "id": "岩手県_2区_中村　起子",
+        "name": "中村　起子",
+        "party": "立民",
+        "votes": 70716,
+        "is_winner": false
+      }
+    ],
+    "margin": 45058,
+    "total_votes": 186490
+  },
+  {
+    "id": "岩手県_3区",
+    "prefecture": "岩手県",
+    "name": "岩手県3区",
+    "candidates": [
+      {
+        "id": "岩手県_3区_小沢　一郎",
+        "name": "小沢　一郎",
+        "party": "立民",
+        "votes": 115364,
+        "is_winner": true
+      },
+      {
+        "id": "岩手県_3区_藤原　崇",
+        "name": "藤原　崇",
+        "party": "自民",
+        "votes": 84347,
+        "is_winner": false
+      }
+    ],
+    "margin": 31017,
+    "total_votes": 199711
+  },
+  {
+    "id": "宮城県_1区",
+    "prefecture": "宮城県",
+    "name": "宮城県1区",
+    "candidates": [
+      {
+        "id": "宮城県_1区_岡本　章子",
+        "name": "岡本　章子",
+        "party": "立民",
+        "votes": 115142,
+        "is_winner": true
+      },
+      {
+        "id": "宮城県_1区_土井　亨",
+        "name": "土井　亨",
+        "party": "自民",
+        "votes": 81924,
+        "is_winner": false
+      },
+      {
+        "id": "宮城県_1区_高橋　浩司",
+        "name": "高橋　浩司",
+        "party": "維新",
+        "votes": 25852,
+        "is_winner": false
+      }
+    ],
+    "margin": 33218,
+    "total_votes": 222918
+  },
+  {
+    "id": "宮城県_2区",
+    "prefecture": "宮城県",
+    "name": "宮城県2区",
+    "candidates": [
+      {
+        "id": "宮城県_2区_鎌田　さゆり",
+        "name": "鎌田　さゆり",
+        "party": "立民",
+        "votes": 116390,
+        "is_winner": true
+      },
+      {
+        "id": "宮城県_2区_秋葉　賢也",
+        "name": "秋葉　賢也",
+        "party": "自民",
+        "votes": 71633,
+        "is_winner": false
+      },
+      {
+        "id": "宮城県_2区_早坂　敦",
+        "name": "早坂　敦",
+        "party": "維新",
+        "votes": 30967,
+        "is_winner": false
+      }
+    ],
+    "margin": 44757,
+    "total_votes": 218990
+  },
+  {
+    "id": "宮城県_3区",
+    "prefecture": "宮城県",
+    "name": "宮城県3区",
+    "candidates": [
+      {
+        "id": "宮城県_3区_柳沢　剛",
+        "name": "柳沢　剛",
+        "party": "立民",
+        "votes": 82566,
+        "is_winner": true
+      },
+      {
+        "id": "宮城県_3区_西村　明宏",
+        "name": "西村　明宏",
+        "party": "自民",
+        "votes": 66906,
+        "is_winner": false
+      }
+    ],
+    "margin": 15660,
+    "total_votes": 149472
+  },
+  {
+    "id": "宮城県_4区",
+    "prefecture": "宮城県",
+    "name": "宮城県4区",
+    "candidates": [
+      {
+        "id": "宮城県_4区_安住　淳",
+        "name": "安住　淳",
+        "party": "立民",
+        "votes": 102229,
+        "is_winner": true
+      },
+      {
+        "id": "宮城県_4区_伊藤　信太郎",
+        "name": "伊藤　信太郎",
+        "party": "自民",
+        "votes": 65616,
+        "is_winner": false
+      },
+      {
+        "id": "宮城県_4区_佐藤　雄一",
+        "name": "佐藤　雄一",
+        "party": "維新",
+        "votes": 15581,
+        "is_winner": false
+      },
+      {
+        "id": "宮城県_4区_大林　正英",
+        "name": "大林　正英",
+        "party": "れいわ",
+        "votes": 12913,
+        "is_winner": false
+      }
+    ],
+    "margin": 36613,
+    "total_votes": 196339
+  },
+  {
+    "id": "宮城県_5区",
+    "prefecture": "宮城県",
+    "name": "宮城県5区",
+    "candidates": [
+      {
+        "id": "宮城県_5区_小野寺　五典",
+        "name": "小野寺　五典",
+        "party": "自民",
+        "votes": 132361,
+        "is_winner": true
+      },
+      {
+        "id": "宮城県_5区_境　恒春",
+        "name": "境　恒春",
+        "party": "維新",
+        "votes": 26502,
+        "is_winner": false
+      },
+      {
+        "id": "宮城県_5区_中嶋　廉",
+        "name": "中嶋　廉",
+        "party": "共産",
+        "votes": 18413,
+        "is_winner": false
+      }
+    ],
+    "margin": 105859,
+    "total_votes": 177276
+  },
+  {
+    "id": "秋田県_1区",
+    "prefecture": "秋田県",
+    "name": "秋田県1区",
+    "candidates": [
+      {
+        "id": "秋田県_1区_冨樫　博之",
+        "name": "冨樫　博之",
+        "party": "自民",
+        "votes": 60387,
+        "is_winner": true
+      },
+      {
+        "id": "秋田県_1区_寺田　学",
+        "name": "寺田　学",
+        "party": "立民",
+        "votes": 59515,
+        "is_winner": false
+      },
+      {
+        "id": "秋田県_1区_松浦　大悟",
+        "name": "松浦　大悟",
+        "party": "維新",
+        "votes": 17865,
+        "is_winner": false
+      },
+      {
+        "id": "秋田県_1区_鈴木　知",
+        "name": "鈴木　知",
+        "party": "共産",
+        "votes": 6875,
+        "is_winner": false
+      }
+    ],
+    "margin": 872,
+    "total_votes": 144642
+  },
+  {
+    "id": "秋田県_2区",
+    "prefecture": "秋田県",
+    "name": "秋田県2区",
+    "candidates": [
+      {
+        "id": "秋田県_2区_緑川　貴士",
+        "name": "緑川　貴士",
+        "party": "立民",
+        "votes": 70895,
+        "is_winner": true
+      },
+      {
+        "id": "秋田県_2区_福原　淳嗣",
+        "name": "福原　淳嗣",
+        "party": "自民",
+        "votes": 65200,
+        "is_winner": false
+      },
+      {
+        "id": "秋田県_2区_山内　梅良",
+        "name": "山内　梅良",
+        "party": "共産",
+        "votes": 4505,
+        "is_winner": false
+      }
+    ],
+    "margin": 5695,
+    "total_votes": 140600
+  },
+  {
+    "id": "秋田県_3区",
+    "prefecture": "秋田県",
+    "name": "秋田県3区",
+    "candidates": [
+      {
+        "id": "秋田県_3区_村岡　敏英",
+        "name": "村岡　敏英",
+        "party": "国民",
+        "votes": 83001,
+        "is_winner": true
+      },
+      {
+        "id": "秋田県_3区_御法川　信英",
+        "name": "御法川　信英",
+        "party": "自民",
+        "votes": 74722,
+        "is_winner": false
+      },
+      {
+        "id": "秋田県_3区_小川　幾代",
+        "name": "小川　幾代",
+        "party": "立民",
+        "votes": 22043,
+        "is_winner": false
+      },
+      {
+        "id": "秋田県_3区_藤田　和久",
+        "name": "藤田　和久",
+        "party": "共産",
+        "votes": 4562,
+        "is_winner": false
+      }
+    ],
+    "margin": 8279,
+    "total_votes": 184328
+  },
+  {
+    "id": "山形県_1区",
+    "prefecture": "山形県",
+    "name": "山形県1区",
+    "candidates": [
+      {
+        "id": "山形県_1区_遠藤　利明",
+        "name": "遠藤　利明",
+        "party": "自民",
+        "votes": 92238,
+        "is_winner": true
+      },
+      {
+        "id": "山形県_1区_原田　和広",
+        "name": "原田　和広",
+        "party": "立民",
+        "votes": 64717,
+        "is_winner": false
+      },
+      {
+        "id": "山形県_1区_三井寺　修",
+        "name": "三井寺　修",
+        "party": "共産",
+        "votes": 9293,
+        "is_winner": false
+      }
+    ],
+    "margin": 27521,
+    "total_votes": 166248
+  },
+  {
+    "id": "山形県_2区",
+    "prefecture": "山形県",
+    "name": "山形県2区",
+    "candidates": [
+      {
+        "id": "山形県_2区_鈴木　憲和",
+        "name": "鈴木　憲和",
+        "party": "自民",
+        "votes": 105416,
+        "is_winner": true
+      },
+      {
+        "id": "山形県_2区_菊池　大二郎",
+        "name": "菊池　大二郎",
+        "party": "国民",
+        "votes": 56359,
+        "is_winner": false
+      },
+      {
+        "id": "山形県_2区_二藤部　冬馬",
+        "name": "二藤部　冬馬",
+        "party": "れいわ",
+        "votes": 15811,
+        "is_winner": false
+      },
+      {
+        "id": "山形県_2区_岩本　康嗣",
+        "name": "岩本　康嗣",
+        "party": "共産",
+        "votes": 8496,
+        "is_winner": false
+      }
+    ],
+    "margin": 49057,
+    "total_votes": 186082
+  },
+  {
+    "id": "山形県_3区",
+    "prefecture": "山形県",
+    "name": "山形県3区",
+    "candidates": [
+      {
+        "id": "山形県_3区_加藤　鮎子",
+        "name": "加藤　鮎子",
+        "party": "自民",
+        "votes": 93909,
+        "is_winner": true
+      },
+      {
+        "id": "山形県_3区_石黒　覚",
+        "name": "石黒　覚",
+        "party": "立民",
+        "votes": 63102,
+        "is_winner": false
+      },
+      {
+        "id": "山形県_3区_山田　守",
+        "name": "山田　守",
+        "party": "共産",
+        "votes": 10372,
+        "is_winner": false
+      }
+    ],
+    "margin": 30807,
+    "total_votes": 167383
+  },
+  {
+    "id": "福島県_1区",
+    "prefecture": "福島県",
+    "name": "福島県1区",
+    "candidates": [
+      {
+        "id": "福島県_1区_金子　恵美",
+        "name": "金子　恵美",
+        "party": "立民",
+        "votes": 124441,
+        "is_winner": true
+      },
+      {
+        "id": "福島県_1区_亀岡　偉民",
+        "name": "亀岡　偉民",
+        "party": "自民",
+        "votes": 84351,
+        "is_winner": false
+      }
+    ],
+    "margin": 40090,
+    "total_votes": 208792
+  },
+  {
+    "id": "福島県_2区",
+    "prefecture": "福島県",
+    "name": "福島県2区",
+    "candidates": [
+      {
+        "id": "福島県_2区_玄葉　光一郎",
+        "name": "玄葉　光一郎",
+        "party": "立民",
+        "votes": 123256,
+        "is_winner": true
+      },
+      {
+        "id": "福島県_2区_根本　拓",
+        "name": "根本　拓",
+        "party": "自民",
+        "votes": 92616,
+        "is_winner": false
+      },
+      {
+        "id": "福島県_2区_丸本　由美子",
+        "name": "丸本　由美子",
+        "party": "共産",
+        "votes": 12594,
+        "is_winner": false
+      }
+    ],
+    "margin": 30640,
+    "total_votes": 228466
+  },
+  {
+    "id": "福島県_3区",
+    "prefecture": "福島県",
+    "name": "福島県3区",
+    "candidates": [
+      {
+        "id": "福島県_3区_小熊　慎司",
+        "name": "小熊　慎司",
+        "party": "立民",
+        "votes": 96814,
+        "is_winner": true
+      },
+      {
+        "id": "福島県_3区_上杉　謙太郎",
+        "name": "上杉　謙太郎",
+        "party": "無",
+        "votes": 68133,
+        "is_winner": false
+      },
+      {
+        "id": "福島県_3区_唐橋　則男",
+        "name": "唐橋　則男",
+        "party": "共産",
+        "votes": 11715,
+        "is_winner": false
+      }
+    ],
+    "margin": 28681,
+    "total_votes": 176662
+  },
+  {
+    "id": "福島県_4区",
+    "prefecture": "福島県",
+    "name": "福島県4区",
+    "candidates": [
+      {
+        "id": "福島県_4区_坂本　竜太郎",
+        "name": "坂本　竜太郎",
+        "party": "自民",
+        "votes": 85751,
+        "is_winner": true
+      },
+      {
+        "id": "福島県_4区_齋藤　裕喜",
+        "name": "齋藤　裕喜",
+        "party": "立民",
+        "votes": 78708,
+        "is_winner": false
+      },
+      {
+        "id": "福島県_4区_熊谷　智",
+        "name": "熊谷　智",
+        "party": "共産",
+        "votes": 19879,
+        "is_winner": false
+      }
+    ],
+    "margin": 7043,
+    "total_votes": 184338
+  },
+  {
+    "id": "茨城県_1区",
+    "prefecture": "茨城県",
+    "name": "茨城県1区",
+    "candidates": [
+      {
+        "id": "茨城県_1区_福島　伸享",
+        "name": "福島　伸享",
+        "party": "無",
+        "votes": 94243,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_1区_田所　嘉徳",
+        "name": "田所　嘉徳",
+        "party": "自民",
+        "votes": 76960,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_1区_武藤　優子",
+        "name": "武藤　優子",
+        "party": "維新",
+        "votes": 23619,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_1区_高橋　誠一郎",
+        "name": "高橋　誠一郎",
+        "party": "共産",
+        "votes": 14565,
+        "is_winner": false
+      }
+    ],
+    "margin": 17283,
+    "total_votes": 209387
+  },
+  {
+    "id": "茨城県_2区",
+    "prefecture": "茨城県",
+    "name": "茨城県2区",
+    "candidates": [
+      {
+        "id": "茨城県_2区_額賀　福志郎",
+        "name": "額賀　福志郎",
+        "party": "自民",
+        "votes": 80875,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_2区_今村　敏昭",
+        "name": "今村　敏昭",
+        "party": "維新",
+        "votes": 24577,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_2区_川井　宏子",
+        "name": "川井　宏子",
+        "party": "共産",
+        "votes": 17613,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_2区_大高　伸一",
+        "name": "大高　伸一",
+        "party": "無",
+        "votes": 13902,
+        "is_winner": false
+      }
+    ],
+    "margin": 56298,
+    "total_votes": 136967
+  },
+  {
+    "id": "茨城県_3区",
+    "prefecture": "茨城県",
+    "name": "茨城県3区",
+    "candidates": [
+      {
+        "id": "茨城県_3区_葉梨　康弘",
+        "name": "葉梨　康弘",
+        "party": "自民",
+        "votes": 83667,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_3区_梶岡　博樹",
+        "name": "梶岡　博樹",
+        "party": "立民",
+        "votes": 63273,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_3区_橋口　奈保",
+        "name": "橋口　奈保",
+        "party": "維新",
+        "votes": 23741,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_3区_加川　裕美",
+        "name": "加川　裕美",
+        "party": "れいわ",
+        "votes": 14783,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_3区_大内　久美子",
+        "name": "大内　久美子",
+        "party": "共産",
+        "votes": 13235,
+        "is_winner": false
+      }
+    ],
+    "margin": 20394,
+    "total_votes": 198699
+  },
+  {
+    "id": "茨城県_4区",
+    "prefecture": "茨城県",
+    "name": "茨城県4区",
+    "candidates": [
+      {
+        "id": "茨城県_4区_梶山　弘志",
+        "name": "梶山　弘志",
+        "party": "自民",
+        "votes": 91019,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_4区_武藤　博光",
+        "name": "武藤　博光",
+        "party": "維新",
+        "votes": 25263,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_4区_吉田　翔",
+        "name": "吉田　翔",
+        "party": "共産",
+        "votes": 16927,
+        "is_winner": false
+      }
+    ],
+    "margin": 65756,
+    "total_votes": 133209
+  },
+  {
+    "id": "茨城県_5区",
+    "prefecture": "茨城県",
+    "name": "茨城県5区",
+    "candidates": [
+      {
+        "id": "茨城県_5区_浅野　哲",
+        "name": "浅野　哲",
+        "party": "国民",
+        "votes": 64351,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_5区_石川　昭政",
+        "name": "石川　昭政",
+        "party": "自民",
+        "votes": 46717,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_5区_千葉　達夫",
+        "name": "千葉　達夫",
+        "party": "共産",
+        "votes": 8781,
+        "is_winner": false
+      }
+    ],
+    "margin": 17634,
+    "total_votes": 119849
+  },
+  {
+    "id": "茨城県_6区",
+    "prefecture": "茨城県",
+    "name": "茨城県6区",
+    "candidates": [
+      {
+        "id": "茨城県_6区_青山　大人",
+        "name": "青山　大人",
+        "party": "立民",
+        "votes": 120434,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_6区_国光　文乃",
+        "name": "国光　文乃",
+        "party": "自民",
+        "votes": 107305,
+        "is_winner": false
+      },
+      {
+        "id": "茨城県_6区_間宮　美知子",
+        "name": "間宮　美知子",
+        "party": "共産",
+        "votes": 16586,
+        "is_winner": false
+      }
+    ],
+    "margin": 13129,
+    "total_votes": 244325
+  },
+  {
+    "id": "茨城県_7区",
+    "prefecture": "茨城県",
+    "name": "茨城県7区",
+    "candidates": [
+      {
+        "id": "茨城県_7区_中村　勇太",
+        "name": "中村　勇太",
+        "party": "無",
+        "votes": 87187,
+        "is_winner": true
+      },
+      {
+        "id": "茨城県_7区_永岡　桂子",
+        "name": "永岡　桂子",
+        "party": "自民",
+        "votes": 77224,
+        "is_winner": false
+      }
+    ],
+    "margin": 9963,
+    "total_votes": 164411
+  },
+  {
+    "id": "栃木県_1区",
+    "prefecture": "栃木県",
+    "name": "栃木県1区",
+    "candidates": [
+      {
+        "id": "栃木県_1区_船田　元",
+        "name": "船田　元",
+        "party": "自民",
+        "votes": 78333,
+        "is_winner": true
+      },
+      {
+        "id": "栃木県_1区_板津　由華",
+        "name": "板津　由華",
+        "party": "立民",
+        "votes": 62914,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_1区_柏倉　祐司",
+        "name": "柏倉　祐司",
+        "party": "維新",
+        "votes": 45491,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_1区_青木　弘",
+        "name": "青木　弘",
+        "party": "共産",
+        "votes": 9490,
+        "is_winner": false
+      }
+    ],
+    "margin": 15419,
+    "total_votes": 196228
+  },
+  {
+    "id": "栃木県_2区",
+    "prefecture": "栃木県",
+    "name": "栃木県2区",
+    "candidates": [
+      {
+        "id": "栃木県_2区_福田　昭夫",
+        "name": "福田　昭夫",
+        "party": "立民",
+        "votes": 68377,
+        "is_winner": true
+      },
+      {
+        "id": "栃木県_2区_五十嵐　清",
+        "name": "五十嵐　清",
+        "party": "自民",
+        "votes": 51955,
+        "is_winner": false
+      }
+    ],
+    "margin": 16422,
+    "total_votes": 120332
+  },
+  {
+    "id": "栃木県_3区",
+    "prefecture": "栃木県",
+    "name": "栃木県3区",
+    "candidates": [
+      {
+        "id": "栃木県_3区_簗　和生",
+        "name": "簗　和生",
+        "party": "自民",
+        "votes": 45546,
+        "is_winner": true
+      },
+      {
+        "id": "栃木県_3区_渡邊　真太朗",
+        "name": "渡邊　真太朗",
+        "party": "無",
+        "votes": 45368,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_3区_伊賀　央",
+        "name": "伊賀　央",
+        "party": "立民",
+        "votes": 30913,
+        "is_winner": false
+      }
+    ],
+    "margin": 178,
+    "total_votes": 121827
+  },
+  {
+    "id": "栃木県_4区",
+    "prefecture": "栃木県",
+    "name": "栃木県4区",
+    "candidates": [
+      {
+        "id": "栃木県_4区_藤岡　隆雄",
+        "name": "藤岡　隆雄",
+        "party": "立民",
+        "votes": 96573,
+        "is_winner": true
+      },
+      {
+        "id": "栃木県_4区_佐藤　勉",
+        "name": "佐藤　勉",
+        "party": "自民",
+        "votes": 75260,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_4区_川上　均",
+        "name": "川上　均",
+        "party": "共産",
+        "votes": 8985,
+        "is_winner": false
+      }
+    ],
+    "margin": 21313,
+    "total_votes": 180818
+  },
+  {
+    "id": "栃木県_5区",
+    "prefecture": "栃木県",
+    "name": "栃木県5区",
+    "candidates": [
+      {
+        "id": "栃木県_5区_茂木　敏充",
+        "name": "茂木　敏充",
+        "party": "自民",
+        "votes": 99897,
+        "is_winner": true
+      },
+      {
+        "id": "栃木県_5区_岡村　恵子",
+        "name": "岡村　恵子",
+        "party": "共産",
+        "votes": 25203,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_5区_谷古宇　勘司",
+        "name": "谷古宇　勘司",
+        "party": "維新",
+        "votes": 20098,
+        "is_winner": false
+      },
+      {
+        "id": "栃木県_5区_亀山　陽三",
+        "name": "亀山　陽三",
+        "party": "無",
+        "votes": 13447,
+        "is_winner": false
+      }
+    ],
+    "margin": 74694,
+    "total_votes": 158645
+  },
+  {
+    "id": "群馬県_1区",
+    "prefecture": "群馬県",
+    "name": "群馬県1区",
+    "candidates": [
+      {
+        "id": "群馬県_1区_中曽根　康隆",
+        "name": "中曽根　康隆",
+        "party": "自民",
+        "votes": 82455,
+        "is_winner": true
+      },
+      {
+        "id": "群馬県_1区_白井　桂子",
+        "name": "白井　桂子",
+        "party": "立民",
+        "votes": 56031,
+        "is_winner": false
+      },
+      {
+        "id": "群馬県_1区_店橋　世津子",
+        "name": "店橋　世津子",
+        "party": "共産",
+        "votes": 20330,
+        "is_winner": false
+      }
+    ],
+    "margin": 26424,
+    "total_votes": 158816
+  },
+  {
+    "id": "群馬県_2区",
+    "prefecture": "群馬県",
+    "name": "群馬県2区",
+    "candidates": [
+      {
+        "id": "群馬県_2区_井野　俊郎",
+        "name": "井野　俊郎",
+        "party": "自民",
+        "votes": 78416,
+        "is_winner": true
+      },
+      {
+        "id": "群馬県_2区_石関　貴史",
+        "name": "石関　貴史",
+        "party": "無",
+        "votes": 48251,
+        "is_winner": false
+      },
+      {
+        "id": "群馬県_2区_高橋　保",
+        "name": "高橋　保",
+        "party": "共産",
+        "votes": 20626,
+        "is_winner": false
+      }
+    ],
+    "margin": 30165,
+    "total_votes": 147293
+  },
+  {
+    "id": "群馬県_3区",
+    "prefecture": "群馬県",
+    "name": "群馬県3区",
+    "candidates": [
+      {
+        "id": "群馬県_3区_笹川　博義",
+        "name": "笹川　博義",
+        "party": "自民",
+        "votes": 74930,
+        "is_winner": true
+      },
+      {
+        "id": "群馬県_3区_長谷川　嘉一",
+        "name": "長谷川　嘉一",
+        "party": "立民",
+        "votes": 74716,
+        "is_winner": false
+      }
+    ],
+    "margin": 214,
+    "total_votes": 149646
+  },
+  {
+    "id": "群馬県_4区",
+    "prefecture": "群馬県",
+    "name": "群馬県4区",
+    "candidates": [
+      {
+        "id": "群馬県_4区_福田　達夫",
+        "name": "福田　達夫",
+        "party": "自民",
+        "votes": 80130,
+        "is_winner": true
+      },
+      {
+        "id": "群馬県_4区_山田　博規",
+        "name": "山田　博規",
+        "party": "立民",
+        "votes": 46740,
+        "is_winner": false
+      },
+      {
+        "id": "群馬県_4区_萩原　貞夫",
+        "name": "萩原　貞夫",
+        "party": "共産",
+        "votes": 16128,
+        "is_winner": false
+      }
+    ],
+    "margin": 33390,
+    "total_votes": 142998
+  },
+  {
+    "id": "群馬県_5区",
+    "prefecture": "群馬県",
+    "name": "群馬県5区",
+    "candidates": [
+      {
+        "id": "群馬県_5区_小渕　優子",
+        "name": "小渕　優子",
+        "party": "自民",
+        "votes": 96580,
+        "is_winner": true
+      },
+      {
+        "id": "群馬県_5区_中島　由美子",
+        "name": "中島　由美子",
+        "party": "維新",
+        "votes": 36928,
+        "is_winner": false
+      },
+      {
+        "id": "群馬県_5区_伊藤　達也",
+        "name": "伊藤　達也",
+        "party": "共産",
+        "votes": 22655,
+        "is_winner": false
+      }
+    ],
+    "margin": 59652,
+    "total_votes": 156163
+  },
+  {
+    "id": "埼玉県_1区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県1区",
+    "candidates": [
+      {
+        "id": "埼玉県_1区_村井　英樹",
+        "name": "村井　英樹",
+        "party": "自民",
+        "votes": 85347,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_1区_武正　公一",
+        "name": "武正　公一",
+        "party": "立民",
+        "votes": 82134,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_1区_浅野目　義英",
+        "name": "浅野目　義英",
+        "party": "維新",
+        "votes": 19039,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_1区_矢野　由紀子",
+        "name": "矢野　由紀子",
+        "party": "共産",
+        "votes": 15106,
+        "is_winner": false
+      }
+    ],
+    "margin": 3213,
+    "total_votes": 201626
+  },
+  {
+    "id": "埼玉県_2区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県2区",
+    "candidates": [
+      {
+        "id": "埼玉県_2区_新藤　義孝",
+        "name": "新藤　義孝",
+        "party": "自民",
+        "votes": 72467,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_2区_高橋　英明",
+        "name": "高橋　英明",
+        "party": "維新",
+        "votes": 43164,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_2区_松浦　玄嗣",
+        "name": "松浦　玄嗣",
+        "party": "立民",
+        "votes": 34327,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_2区_奥田　智子",
+        "name": "奥田　智子",
+        "party": "共産",
+        "votes": 23317,
+        "is_winner": false
+      }
+    ],
+    "margin": 29303,
+    "total_votes": 173275
+  },
+  {
+    "id": "埼玉県_3区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県3区",
+    "candidates": [
+      {
+        "id": "埼玉県_3区_黄川田　仁志",
+        "name": "黄川田　仁志",
+        "party": "自民",
+        "votes": 76239,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_3区_竹内　千春",
+        "name": "竹内　千春",
+        "party": "立民",
+        "votes": 66103,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_3区_石川　隆美",
+        "name": "石川　隆美",
+        "party": "維新",
+        "votes": 24442,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_3区_馬場　浩",
+        "name": "馬場　浩",
+        "party": "共産",
+        "votes": 14731,
+        "is_winner": false
+      }
+    ],
+    "margin": 10136,
+    "total_votes": 181515
+  },
+  {
+    "id": "埼玉県_4区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県4区",
+    "candidates": [
+      {
+        "id": "埼玉県_4区_穂坂　泰",
+        "name": "穂坂　泰",
+        "party": "自民",
+        "votes": 82125,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_4区_岸田　光広",
+        "name": "岸田　光広",
+        "party": "国民",
+        "votes": 52728,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_4区_渡辺　泰之",
+        "name": "渡辺　泰之",
+        "party": "維新",
+        "votes": 34048,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_4区_工藤　薫",
+        "name": "工藤　薫",
+        "party": "共産",
+        "votes": 27763,
+        "is_winner": false
+      }
+    ],
+    "margin": 29397,
+    "total_votes": 196664
+  },
+  {
+    "id": "埼玉県_5区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県5区",
+    "candidates": [
+      {
+        "id": "埼玉県_5区_枝野　幸男",
+        "name": "枝野　幸男",
+        "party": "立民",
+        "votes": 107778,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_5区_牧原　秀樹",
+        "name": "牧原　秀樹",
+        "party": "自民",
+        "votes": 78250,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_5区_辻村　千尋",
+        "name": "辻村　千尋",
+        "party": "れいわ",
+        "votes": 15295,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_5区_山本　悠子",
+        "name": "山本　悠子",
+        "party": "共産",
+        "votes": 10098,
+        "is_winner": false
+      }
+    ],
+    "margin": 29528,
+    "total_votes": 211421
+  },
+  {
+    "id": "埼玉県_6区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県6区",
+    "candidates": [
+      {
+        "id": "埼玉県_6区_大島　敦",
+        "name": "大島　敦",
+        "party": "立民",
+        "votes": 104836,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_6区_中根　一幸",
+        "name": "中根　一幸",
+        "party": "無",
+        "votes": 50425,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_6区_秋山　もえ",
+        "name": "秋山　もえ",
+        "party": "共産",
+        "votes": 24735,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_6区_細谷　美恵子",
+        "name": "細谷　美恵子",
+        "party": "維新",
+        "votes": 24341,
+        "is_winner": false
+      }
+    ],
+    "margin": 54411,
+    "total_votes": 204337
+  },
+  {
+    "id": "埼玉県_7区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県7区",
+    "candidates": [
+      {
+        "id": "埼玉県_7区_小宮山　泰子",
+        "name": "小宮山　泰子",
+        "party": "立民",
+        "votes": 73293,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_7区_中野　英幸",
+        "name": "中野　英幸",
+        "party": "自民",
+        "votes": 66498,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_7区_伊勢田　享子",
+        "name": "伊勢田　享子",
+        "party": "維新",
+        "votes": 27266,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_7区_佐藤　一馬",
+        "name": "佐藤　一馬",
+        "party": "共産",
+        "votes": 17541,
+        "is_winner": false
+      }
+    ],
+    "margin": 6795,
+    "total_votes": 184598
+  },
+  {
+    "id": "埼玉県_8区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県8区",
+    "candidates": [
+      {
+        "id": "埼玉県_8区_柴山　昌彦",
+        "name": "柴山　昌彦",
+        "party": "自民",
+        "votes": 93223,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_8区_市来　伴子",
+        "name": "市来　伴子",
+        "party": "立民",
+        "votes": 77580,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_8区_市野　一馬",
+        "name": "市野　一馬",
+        "party": "維新",
+        "votes": 23810,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_8区_平井　明美",
+        "name": "平井　明美",
+        "party": "共産",
+        "votes": 20305,
+        "is_winner": false
+      }
+    ],
+    "margin": 15643,
+    "total_votes": 214918
+  },
+  {
+    "id": "埼玉県_9区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県9区",
+    "candidates": [
+      {
+        "id": "埼玉県_9区_杉村　慎治",
+        "name": "杉村　慎治",
+        "party": "立民",
+        "votes": 83107,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_9区_大塚　拓",
+        "name": "大塚　拓",
+        "party": "自民",
+        "votes": 78811,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_9区_近藤　秀将",
+        "name": "近藤　秀将",
+        "party": "維新",
+        "votes": 21680,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_9区_猪股　嘉直",
+        "name": "猪股　嘉直",
+        "party": "共産",
+        "votes": 16293,
+        "is_winner": false
+      }
+    ],
+    "margin": 4296,
+    "total_votes": 199891
+  },
+  {
+    "id": "埼玉県_10区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県10区",
+    "candidates": [
+      {
+        "id": "埼玉県_10区_坂本　祐之輔",
+        "name": "坂本　祐之輔",
+        "party": "立民",
+        "votes": 97591,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_10区_山口　晋",
+        "name": "山口　晋",
+        "party": "自民",
+        "votes": 67764,
+        "is_winner": false
+      }
+    ],
+    "margin": 29827,
+    "total_votes": 165355
+  },
+  {
+    "id": "埼玉県_11区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県11区",
+    "candidates": [
+      {
+        "id": "埼玉県_11区_小泉　龍司",
+        "name": "小泉　龍司",
+        "party": "自民",
+        "votes": 91681,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_11区_島田　誠",
+        "name": "島田　誠",
+        "party": "立民",
+        "votes": 49557,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_11区_柿沼　遥輝",
+        "name": "柿沼　遥輝",
+        "party": "共産",
+        "votes": 16636,
+        "is_winner": false
+      }
+    ],
+    "margin": 42124,
+    "total_votes": 157874
+  },
+  {
+    "id": "埼玉県_12区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県12区",
+    "candidates": [
+      {
+        "id": "埼玉県_12区_森田　俊和",
+        "name": "森田　俊和",
+        "party": "立民",
+        "votes": 103324,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_12区_野中　厚",
+        "name": "野中　厚",
+        "party": "自民",
+        "votes": 76395,
+        "is_winner": false
+      }
+    ],
+    "margin": 26929,
+    "total_votes": 179719
+  },
+  {
+    "id": "埼玉県_13区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県13区",
+    "candidates": [
+      {
+        "id": "埼玉県_13区_橋本　幹彦",
+        "name": "橋本　幹彦",
+        "party": "国民",
+        "votes": 61436,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_13区_三ツ林　裕己",
+        "name": "三ツ林　裕己",
+        "party": "無",
+        "votes": 53382,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_13区_高井　崇志",
+        "name": "高井　崇志",
+        "party": "れいわ",
+        "votes": 22237,
+        "is_winner": false
+      }
+    ],
+    "margin": 8054,
+    "total_votes": 137055
+  },
+  {
+    "id": "埼玉県_14区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県14区",
+    "candidates": [
+      {
+        "id": "埼玉県_14区_鈴木　義弘",
+        "name": "鈴木　義弘",
+        "party": "国民",
+        "votes": 70608,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_14区_石井　啓一",
+        "name": "石井　啓一",
+        "party": "公明",
+        "votes": 60249,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_14区_加来　武宜",
+        "name": "加来　武宜",
+        "party": "維新",
+        "votes": 28792,
+        "is_winner": false
+      }
+    ],
+    "margin": 10359,
+    "total_votes": 159649
+  },
+  {
+    "id": "埼玉県_15区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県15区",
+    "candidates": [
+      {
+        "id": "埼玉県_15区_田中　良生",
+        "name": "田中　良生",
+        "party": "自民",
+        "votes": 73973,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_15区_高木　錬太郎",
+        "name": "高木　錬太郎",
+        "party": "立民",
+        "votes": 60356,
+        "is_winner": false
+      },
+      {
+        "id": "埼玉県_15区_沢田　良",
+        "name": "沢田　良",
+        "party": "維新",
+        "votes": 39858,
+        "is_winner": false
+      }
+    ],
+    "margin": 13617,
+    "total_votes": 174187
+  },
+  {
+    "id": "埼玉県_16区",
+    "prefecture": "埼玉県",
+    "name": "埼玉県16区",
+    "candidates": [
+      {
+        "id": "埼玉県_16区_土屋　品子",
+        "name": "土屋　品子",
+        "party": "自民",
+        "votes": 66909,
+        "is_winner": true
+      },
+      {
+        "id": "埼玉県_16区_三角　創太",
+        "name": "三角　創太",
+        "party": "立民",
+        "votes": 64244,
+        "is_winner": false
+      }
+    ],
+    "margin": 2665,
+    "total_votes": 131153
+  },
+  {
+    "id": "千葉県_1区",
+    "prefecture": "千葉県",
+    "name": "千葉県1区",
+    "candidates": [
+      {
+        "id": "千葉県_1区_田嶋　要",
+        "name": "田嶋　要",
+        "party": "立民",
+        "votes": 107439,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_1区_門山　宏哲",
+        "name": "門山　宏哲",
+        "party": "自民",
+        "votes": 67432,
+        "is_winner": false
+      },
+      {
+        "id": "千葉県_1区_依田　和孝",
+        "name": "依田　和孝",
+        "party": "維新",
+        "votes": 23770,
+        "is_winner": false
+      }
+    ],
+    "margin": 40007,
+    "total_votes": 198641
+  },
+  {
+    "id": "千葉県_2区",
+    "prefecture": "千葉県",
+    "name": "千葉県2区",
+    "candidates": [
+      {
+        "id": "千葉県_2区_小林　鷹之",
+        "name": "小林　鷹之",
+        "party": "自民",
+        "votes": 103690,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_2区_白石　ちよ",
+        "name": "白石　ちよ",
+        "party": "共産",
+        "votes": 48500,
+        "is_winner": false
+      }
+    ],
+    "margin": 55190,
+    "total_votes": 152190
+  },
+  {
+    "id": "千葉県_3区",
+    "prefecture": "千葉県",
+    "name": "千葉県3区",
+    "candidates": [
+      {
+        "id": "千葉県_3区_松野　博一",
+        "name": "松野　博一",
+        "party": "自民",
+        "votes": 67308,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_3区_岡島　一正",
+        "name": "岡島　一正",
+        "party": "立民",
+        "votes": 64169,
+        "is_winner": false
+      }
+    ],
+    "margin": 3139,
+    "total_votes": 131477
+  },
+  {
+    "id": "千葉県_4区",
+    "prefecture": "千葉県",
+    "name": "千葉県4区",
+    "candidates": [
+      {
+        "id": "千葉県_4区_水沼　秀幸",
+        "name": "水沼　秀幸",
+        "party": "立民",
+        "votes": 90011,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_4区_木村　哲也",
+        "name": "木村　哲也",
+        "party": "自民",
+        "votes": 66629,
+        "is_winner": false
+      }
+    ],
+    "margin": 23382,
+    "total_votes": 156640
+  },
+  {
+    "id": "千葉県_5区",
+    "prefecture": "千葉県",
+    "name": "千葉県5区",
+    "candidates": [
+      {
+        "id": "千葉県_5区_矢崎　堅太郎",
+        "name": "矢崎　堅太郎",
+        "party": "立民",
+        "votes": 66031,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_5区_英利　アルフィヤ",
+        "name": "英利　アルフィヤ",
+        "party": "自民",
+        "votes": 59636,
+        "is_winner": false
+      },
+      {
+        "id": "千葉県_5区_岡野　純子",
+        "name": "岡野　純子",
+        "party": "国民",
+        "votes": 51033,
+        "is_winner": false
+      }
+    ],
+    "margin": 6395,
+    "total_votes": 176700
+  },
+  {
+    "id": "千葉県_6区",
+    "prefecture": "千葉県",
+    "name": "千葉県6区",
+    "candidates": [
+      {
+        "id": "千葉県_6区_安藤　じゅん子",
+        "name": "安藤　じゅん子",
+        "party": "立民",
+        "votes": 71555,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_6区_渡辺　博道",
+        "name": "渡辺　博道",
+        "party": "自民",
+        "votes": 70215,
+        "is_winner": false
+      }
+    ],
+    "margin": 1340,
+    "total_votes": 141770
+  },
+  {
+    "id": "千葉県_7区",
+    "prefecture": "千葉県",
+    "name": "千葉県7区",
+    "candidates": [
+      {
+        "id": "千葉県_7区_齋藤　健",
+        "name": "齋藤　健",
+        "party": "自民",
+        "votes": 82606,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_7区_平戸　航太",
+        "name": "平戸　航太",
+        "party": "国民",
+        "votes": 51749,
+        "is_winner": false
+      }
+    ],
+    "margin": 30857,
+    "total_votes": 134355
+  },
+  {
+    "id": "千葉県_8区",
+    "prefecture": "千葉県",
+    "name": "千葉県8区",
+    "candidates": [
+      {
+        "id": "千葉県_8区_本庄　知史",
+        "name": "本庄　知史",
+        "party": "立民",
+        "votes": 78678,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_8区_松本　泉",
+        "name": "松本　泉",
+        "party": "自民",
+        "votes": 59070,
+        "is_winner": false
+      }
+    ],
+    "margin": 19608,
+    "total_votes": 137748
+  },
+  {
+    "id": "千葉県_9区",
+    "prefecture": "千葉県",
+    "name": "千葉県9区",
+    "candidates": [
+      {
+        "id": "千葉県_9区_奥野　総一郎",
+        "name": "奥野　総一郎",
+        "party": "立民",
+        "votes": 86335,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_9区_田宮　寿人",
+        "name": "田宮　寿人",
+        "party": "自民",
+        "votes": 65963,
+        "is_winner": false
+      }
+    ],
+    "margin": 20372,
+    "total_votes": 152298
+  },
+  {
+    "id": "千葉県_10区",
+    "prefecture": "千葉県",
+    "name": "千葉県10区",
+    "candidates": [
+      {
+        "id": "千葉県_10区_小池　正昭",
+        "name": "小池　正昭",
+        "party": "自民",
+        "votes": 69563,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_10区_谷田川　元",
+        "name": "谷田川　元",
+        "party": "立民",
+        "votes": 67920,
+        "is_winner": false
+      }
+    ],
+    "margin": 1643,
+    "total_votes": 137483
+  },
+  {
+    "id": "千葉県_11区",
+    "prefecture": "千葉県",
+    "name": "千葉県11区",
+    "candidates": [
+      {
+        "id": "千葉県_11区_森　英介",
+        "name": "森　英介",
+        "party": "自民",
+        "votes": 92187,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_11区_多ケ谷　亮",
+        "name": "多ケ谷　亮",
+        "party": "れいわ",
+        "votes": 45616,
+        "is_winner": false
+      }
+    ],
+    "margin": 46571,
+    "total_votes": 137803
+  },
+  {
+    "id": "千葉県_12区",
+    "prefecture": "千葉県",
+    "name": "千葉県12区",
+    "candidates": [
+      {
+        "id": "千葉県_12区_浜田　靖一",
+        "name": "浜田　靖一",
+        "party": "自民",
+        "votes": 105510,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_12区_樋高　剛",
+        "name": "樋高　剛",
+        "party": "立民",
+        "votes": 45098,
+        "is_winner": false
+      }
+    ],
+    "margin": 60412,
+    "total_votes": 150608
+  },
+  {
+    "id": "千葉県_13区",
+    "prefecture": "千葉県",
+    "name": "千葉県13区",
+    "candidates": [
+      {
+        "id": "千葉県_13区_松本　尚",
+        "name": "松本　尚",
+        "party": "自民",
+        "votes": 96024,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_13区_宮川　伸",
+        "name": "宮川　伸",
+        "party": "立民",
+        "votes": 92501,
+        "is_winner": false
+      }
+    ],
+    "margin": 3523,
+    "total_votes": 188525
+  },
+  {
+    "id": "千葉県_14区",
+    "prefecture": "千葉県",
+    "name": "千葉県14区",
+    "candidates": [
+      {
+        "id": "千葉県_14区_野田　佳彦",
+        "name": "野田　佳彦",
+        "party": "立民",
+        "votes": 145821,
+        "is_winner": true
+      },
+      {
+        "id": "千葉県_14区_高橋　恭介",
+        "name": "高橋　恭介",
+        "party": "自民",
+        "votes": 51723,
+        "is_winner": false
+      }
+    ],
+    "margin": 94098,
+    "total_votes": 197544
+  },
+  {
+    "id": "東京都_1区",
+    "prefecture": "東京都",
+    "name": "東京都1区",
+    "candidates": [
+      {
+        "id": "東京都_1区_海江田　万里",
+        "name": "海江田　万里",
+        "party": "立民",
+        "votes": 56979,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_1区_山田　美樹",
+        "name": "山田　美樹",
+        "party": "自民",
+        "votes": 55040,
+        "is_winner": false
+      }
+    ],
+    "margin": 1939,
+    "total_votes": 112019
+  },
+  {
+    "id": "東京都_2区",
+    "prefecture": "東京都",
+    "name": "東京都2区",
+    "candidates": [
+      {
+        "id": "東京都_2区_辻　清人",
+        "name": "辻　清人",
+        "party": "自民",
+        "votes": 66050,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_2区_鳩山　紀一郎",
+        "name": "鳩山　紀一郎",
+        "party": "国民",
+        "votes": 48527,
+        "is_winner": false
+      }
+    ],
+    "margin": 17523,
+    "total_votes": 114577
+  },
+  {
+    "id": "東京都_3区",
+    "prefecture": "東京都",
+    "name": "東京都3区",
+    "candidates": [
+      {
+        "id": "東京都_3区_石原　宏高",
+        "name": "石原　宏高",
+        "party": "自民",
+        "votes": 61660,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_3区_阿部　祐美子",
+        "name": "阿部　祐美子",
+        "party": "立民",
+        "votes": 54178,
+        "is_winner": false
+      }
+    ],
+    "margin": 7482,
+    "total_votes": 115838
+  },
+  {
+    "id": "東京都_4区",
+    "prefecture": "東京都",
+    "name": "東京都4区",
+    "candidates": [
+      {
+        "id": "東京都_4区_平　将明",
+        "name": "平　将明",
+        "party": "自民",
+        "votes": 86773,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_4区_井戸　正枝",
+        "name": "井戸　正枝",
+        "party": "国民",
+        "votes": 51810,
+        "is_winner": false
+      }
+    ],
+    "margin": 34963,
+    "total_votes": 138583
+  },
+  {
+    "id": "東京都_5区",
+    "prefecture": "東京都",
+    "name": "東京都5区",
+    "candidates": [
+      {
+        "id": "東京都_5区_手塚　仁雄",
+        "name": "手塚　仁雄",
+        "party": "立民",
+        "votes": 83016,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_5区_若宮　健嗣",
+        "name": "若宮　健嗣",
+        "party": "自民",
+        "votes": 69024,
+        "is_winner": false
+      }
+    ],
+    "margin": 13992,
+    "total_votes": 152040
+  },
+  {
+    "id": "東京都_10区",
+    "prefecture": "東京都",
+    "name": "東京都10区",
+    "candidates": [
+      {
+        "id": "東京都_10区_鈴木　隼人",
+        "name": "鈴木　隼人",
+        "party": "自民",
+        "votes": 93490,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_10区_鈴木　庸介",
+        "name": "鈴木　庸介",
+        "party": "立民",
+        "votes": 92899,
+        "is_winner": false
+      }
+    ],
+    "margin": 591,
+    "total_votes": 186389
+  },
+  {
+    "id": "東京都_15区",
+    "prefecture": "東京都",
+    "name": "東京都15区",
+    "candidates": [
+      {
+        "id": "東京都_15区_酒井　菜摘",
+        "name": "酒井　菜摘",
+        "party": "立民",
+        "votes": 66791,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_15区_須藤　元気",
+        "name": "須藤　元気",
+        "party": "無",
+        "votes": 65666,
+        "is_winner": false
+      }
+    ],
+    "margin": 1125,
+    "total_votes": 132457
+  },
+  {
+    "id": "東京都_18区",
+    "prefecture": "東京都",
+    "name": "東京都18区",
+    "candidates": [
+      {
+        "id": "東京都_18区_福田　かおる",
+        "name": "福田　かおる",
+        "party": "自民",
+        "votes": 99002,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_18区_松下　玲子",
+        "name": "松下　玲子",
+        "party": "立民",
+        "votes": 96820,
+        "is_winner": false
+      }
+    ],
+    "margin": 2182,
+    "total_votes": 195822
+  },
+  {
+    "id": "東京都_19区",
+    "prefecture": "東京都",
+    "name": "東京都19区",
+    "candidates": [
+      {
+        "id": "東京都_19区_末松　義規",
+        "name": "末松　義規",
+        "party": "立民",
+        "votes": 76899,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_19区_松本　洋平",
+        "name": "松本　洋平",
+        "party": "自民",
+        "votes": 74435,
+        "is_winner": false
+      }
+    ],
+    "margin": 2464,
+    "total_votes": 151334
+  },
+  {
+    "id": "東京都_22区",
+    "prefecture": "東京都",
+    "name": "東京都22区",
+    "candidates": [
+      {
+        "id": "東京都_22区_山花　郁夫",
+        "name": "山花　郁夫",
+        "party": "立民",
+        "votes": 99790,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_22区_伊藤　達也",
+        "name": "伊藤　達也",
+        "party": "自民",
+        "votes": 96748,
+        "is_winner": false
+      }
+    ],
+    "margin": 3042,
+    "total_votes": 196538
+  },
+  {
+    "id": "東京都_24区",
+    "prefecture": "東京都",
+    "name": "東京都24区",
+    "candidates": [
+      {
+        "id": "東京都_24区_萩生田　光一",
+        "name": "萩生田　光一",
+        "party": "無",
+        "votes": 79216,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_24区_有田　芳生",
+        "name": "有田　芳生",
+        "party": "立民",
+        "votes": 71683,
+        "is_winner": false
+      }
+    ],
+    "margin": 7533,
+    "total_votes": 150899
+  },
+  {
+    "id": "東京都_28区",
+    "prefecture": "東京都",
+    "name": "東京都28区",
+    "candidates": [
+      {
+        "id": "東京都_28区_高松　智之",
+        "name": "高松　智之",
+        "party": "立民",
+        "votes": 50626,
+        "is_winner": true
+      },
+      {
+        "id": "東京都_28区_安藤　高夫",
+        "name": "安藤　高夫",
+        "party": "自民",
+        "votes": 50290,
+        "is_winner": false
+      }
+    ],
+    "margin": 336,
+    "total_votes": 100916
+  },
+  {
+    "id": "神奈川県_6区",
+    "prefecture": "神奈川県",
+    "name": "神奈川県6区",
+    "candidates": [
+      {
+        "id": "神奈川県_6区_青柳　陽一郎",
+        "name": "青柳　陽一郎",
+        "party": "立民",
+        "votes": 80207,
+        "is_winner": true
+      },
+      {
+        "id": "神奈川県_6区_古川　直季",
+        "name": "古川　直季",
+        "party": "自民",
+        "votes": 79281,
+        "is_winner": false
+      }
+    ],
+    "margin": 926,
+    "total_votes": 159488
+  },
+  {
+    "id": "神奈川県_17区",
+    "prefecture": "神奈川県",
+    "name": "神奈川県17区",
+    "candidates": [
+      {
+        "id": "神奈川県_17区_牧島　かれん",
+        "name": "牧島　かれん",
+        "party": "自民",
+        "votes": 115235,
+        "is_winner": true
+      },
+      {
+        "id": "神奈川県_17区_佐々木　奈保美",
+        "name": "佐々木　奈保美",
+        "party": "立民",
+        "votes": 111061,
+        "is_winner": false
+      }
+    ],
+    "margin": 4174,
+    "total_votes": 226296
+  },
+  {
+    "id": "新潟県_1区",
+    "prefecture": "新潟県",
+    "name": "新潟県1区",
+    "candidates": [
+      {
+        "id": "新潟県_1区_西村　智奈美",
+        "name": "西村　智奈美",
+        "party": "立民",
+        "votes": 99487,
+        "is_winner": true
+      },
+      {
+        "id": "新潟県_1区_塚田　一郎",
+        "name": "塚田　一郎",
+        "party": "自民",
+        "votes": 61025,
+        "is_winner": false
+      }
+    ],
+    "margin": 38462,
+    "total_votes": 160512
+  },
+  {
+    "id": "新潟県_3区",
+    "prefecture": "新潟県",
+    "name": "新潟県3区",
+    "candidates": [
+      {
+        "id": "新潟県_3区_黒岩　宇洋",
+        "name": "黒岩　宇洋",
+        "party": "立民",
+        "votes": 105275,
+        "is_winner": true
+      },
+      {
+        "id": "新潟県_3区_斎藤　洋明",
+        "name": "斎藤　洋明",
+        "party": "自民",
+        "votes": 94984,
+        "is_winner": false
+      }
+    ],
+    "margin": 10291,
+    "total_votes": 200259
+  },
+  {
+    "id": "新潟県_5区",
+    "prefecture": "新潟県",
+    "name": "新潟県5区",
+    "candidates": [
+      {
+        "id": "新潟県_5区_梅谷　守",
+        "name": "梅谷　守",
+        "party": "立民",
+        "votes": 114429,
+        "is_winner": true
+      },
+      {
+        "id": "新潟県_5区_高鳥　修一",
+        "name": "高鳥　修一",
+        "party": "自民",
+        "votes": 92589,
+        "is_winner": false
+      }
+    ],
+    "margin": 21840,
+    "total_votes": 207018
+  },
+  {
+    "id": "長野_１区",
+    "prefecture": "長野",
+    "name": "長野１区",
+    "candidates": [
+      {
+        "id": "長野_１区_篠原　孝",
+        "name": "篠原　孝",
+        "party": "立民",
+        "votes": 105231,
+        "is_winner": true
+      },
+      {
+        "id": "長野_１区_若林　健太",
+        "name": "若林　健太",
+        "party": "自民",
+        "votes": 88792,
+        "is_winner": false
+      },
+      {
+        "id": "長野_１区_若狭　清史",
+        "name": "若狭　清史",
+        "party": "維新",
+        "votes": 33470,
+        "is_winner": false
+      }
+    ],
+    "margin": 16439,
+    "total_votes": 227493
+  },
+  {
+    "id": "長野_２区",
+    "prefecture": "長野",
+    "name": "長野２区",
+    "candidates": [
+      {
+        "id": "長野_２区_下条　みつ",
+        "name": "下条　みつ",
+        "party": "立民",
+        "votes": 98664,
+        "is_winner": true
+      },
+      {
+        "id": "長野_２区_務台　俊介",
+        "name": "務台　俊介",
+        "party": "自民",
+        "votes": 54265,
+        "is_winner": false
+      },
+      {
+        "id": "長野_２区_手塚　大輔",
+        "name": "手塚　大輔",
+        "party": "維新",
+        "votes": 50961,
+        "is_winner": false
+      }
+    ],
+    "margin": 44399,
+    "total_votes": 203890
+  },
+  {
+    "id": "長野_３区",
+    "prefecture": "長野",
+    "name": "長野３区",
+    "candidates": [
+      {
+        "id": "長野_３区_神津　健",
+        "name": "神津　健",
+        "party": "立民",
+        "votes": 121594,
+        "is_winner": true
+      },
+      {
+        "id": "長野_３区_井出　庸生",
+        "name": "井出　庸生",
+        "party": "自民",
+        "votes": 99431,
+        "is_winner": false
+      }
+    ],
+    "margin": 22163,
+    "total_votes": 221025
+  },
+  {
+    "id": "長野_４区",
+    "prefecture": "長野",
+    "name": "長野４区",
+    "candidates": [
+      {
+        "id": "長野_４区_後藤　茂之",
+        "name": "後藤　茂之",
+        "party": "自民",
+        "votes": 75713,
+        "is_winner": true
+      },
+      {
+        "id": "長野_４区_武田　良介",
+        "name": "武田　良介",
+        "party": "共産",
+        "votes": 50005,
+        "is_winner": false
+      }
+    ],
+    "margin": 25708,
+    "total_votes": 125718
+  },
+  {
+    "id": "長野_５区",
+    "prefecture": "長野",
+    "name": "長野５区",
+    "candidates": [
+      {
+        "id": "長野_５区_宮下　一郎",
+        "name": "宮下　一郎",
+        "party": "自民",
+        "votes": 78139,
+        "is_winner": true
+      },
+      {
+        "id": "長野_５区_福田　淳太",
+        "name": "福田　淳太",
+        "party": "立民",
+        "votes": 68650,
+        "is_winner": false
+      },
+      {
+        "id": "長野_５区_後藤　荘一",
+        "name": "後藤　荘一",
+        "party": "共産",
+        "votes": 14681,
+        "is_winner": false
+      }
+    ],
+    "margin": 9489,
+    "total_votes": 161470
+  },
+  {
+    "id": "山梨_１区",
+    "prefecture": "山梨",
+    "name": "山梨１区",
+    "candidates": [
+      {
+        "id": "山梨_１区_中島　克仁",
+        "name": "中島　克仁",
+        "party": "立民",
+        "votes": 107050,
+        "is_winner": true
+      },
+      {
+        "id": "山梨_１区_中谷　真一",
+        "name": "中谷　真一",
+        "party": "自民",
+        "votes": 99129,
+        "is_winner": false
+      },
+      {
+        "id": "山梨_１区_高田　晃宏",
+        "name": "高田　晃宏",
+        "party": "参政",
+        "votes": 14597,
+        "is_winner": false
+      },
+      {
+        "id": "山梨_１区_早田　記史",
+        "name": "早田　記史",
+        "party": "共産",
+        "votes": 12601,
+        "is_winner": false
+      }
+    ],
+    "margin": 7921,
+    "total_votes": 233377
+  },
+  {
+    "id": "山梨_２区",
+    "prefecture": "山梨",
+    "name": "山梨２区",
+    "candidates": [
+      {
+        "id": "山梨_２区_堀内　詔子",
+        "name": "堀内　詔子",
+        "party": "自民",
+        "votes": 99080,
+        "is_winner": true
+      },
+      {
+        "id": "山梨_２区_大久保　令子",
+        "name": "大久保　令子",
+        "party": "共産",
+        "votes": 35569,
+        "is_winner": false
+      }
+    ],
+    "margin": 63511,
+    "total_votes": 134649
+  },
+  {
+    "id": "富山_１区",
+    "prefecture": "富山",
+    "name": "富山１区",
+    "candidates": [
+      {
+        "id": "富山_１区_田畑　裕明",
+        "name": "田畑　裕明",
+        "party": "自民",
+        "votes": 45917,
+        "is_winner": true
+      },
+      {
+        "id": "富山_１区_山　登志浩",
+        "name": "山　登志浩",
+        "party": "立民",
+        "votes": 45179,
+        "is_winner": false
+      },
+      {
+        "id": "富山_１区_吉田　豊史",
+        "name": "吉田　豊史",
+        "party": "無",
+        "votes": 19870,
+        "is_winner": false
+      },
+      {
+        "id": "富山_１区_淺岡　弘彦",
+        "name": "淺岡　弘彦",
+        "party": "維新",
+        "votes": 12995,
+        "is_winner": false
+      },
+      {
+        "id": "富山_１区_青山　了介",
+        "name": "青山　了介",
+        "party": "共産",
+        "votes": 6903,
+        "is_winner": false
+      }
+    ],
+    "margin": 738,
+    "total_votes": 130864
+  },
+  {
+    "id": "富山_２区",
+    "prefecture": "富山",
+    "name": "富山２区",
+    "candidates": [
+      {
+        "id": "富山_２区_上田　英俊",
+        "name": "上田　英俊",
+        "party": "自民",
+        "votes": 73872,
+        "is_winner": true
+      },
+      {
+        "id": "富山_２区_越川　康晴",
+        "name": "越川　康晴",
+        "party": "立民",
+        "votes": 41456,
+        "is_winner": false
+      },
+      {
+        "id": "富山_２区_泉野　和之",
+        "name": "泉野　和之",
+        "party": "共産",
+        "votes": 9197,
+        "is_winner": false
+      }
+    ],
+    "margin": 32416,
+    "total_votes": 124525
+  },
+  {
+    "id": "富山_３区",
+    "prefecture": "富山",
+    "name": "富山３区",
+    "candidates": [
+      {
+        "id": "富山_３区_橘　慶一郎",
+        "name": "橘　慶一郎",
+        "party": "自民",
+        "votes": 131549,
+        "is_winner": true
+      },
+      {
+        "id": "富山_３区_大久保　光太",
+        "name": "大久保　光太",
+        "party": "国民",
+        "votes": 46676,
+        "is_winner": false
+      },
+      {
+        "id": "富山_３区_坂本　洋史",
+        "name": "坂本　洋史",
+        "party": "共産",
+        "votes": 19272,
+        "is_winner": false
+      }
+    ],
+    "margin": 84873,
+    "total_votes": 197497
+  },
+  {
+    "id": "石川_１区",
+    "prefecture": "石川",
+    "name": "石川１区",
+    "candidates": [
+      {
+        "id": "石川_１区_小森　卓郎",
+        "name": "小森　卓郎",
+        "party": "自民",
+        "votes": 64997,
+        "is_winner": true
+      },
+      {
+        "id": "石川_１区_荒井　淳志",
+        "name": "荒井　淳志",
+        "party": "立民",
+        "votes": 51506,
+        "is_winner": false
+      },
+      {
+        "id": "石川_１区_小林　誠",
+        "name": "小林　誠",
+        "party": "維新",
+        "votes": 27257,
+        "is_winner": false
+      },
+      {
+        "id": "石川_１区_小竹　凱",
+        "name": "小竹　凱",
+        "party": "国民",
+        "votes": 24324,
+        "is_winner": false
+      },
+      {
+        "id": "石川_１区_村田　茂",
+        "name": "村田　茂",
+        "party": "共産",
+        "votes": 8913,
+        "is_winner": false
+      },
+      {
+        "id": "石川_１区_藤原　徳英",
+        "name": "藤原　徳英",
+        "party": "無",
+        "votes": 2210,
+        "is_winner": false
+      }
+    ],
+    "margin": 13491,
+    "total_votes": 179207
+  },
+  {
+    "id": "石川_２区",
+    "prefecture": "石川",
+    "name": "石川２区",
+    "candidates": [
+      {
+        "id": "石川_２区_佐々木　紀",
+        "name": "佐々木　紀",
+        "party": "自民",
+        "votes": 100617,
+        "is_winner": true
+      },
+      {
+        "id": "石川_２区_小山田　経子",
+        "name": "小山田　経子",
+        "party": "立民",
+        "votes": 62588,
+        "is_winner": false
+      },
+      {
+        "id": "石川_２区_坂本　浩",
+        "name": "坂本　浩",
+        "party": "共産",
+        "votes": 10873,
+        "is_winner": false
+      }
+    ],
+    "margin": 38029,
+    "total_votes": 174078
+  },
+  {
+    "id": "石川_３区",
+    "prefecture": "石川",
+    "name": "石川３区",
+    "candidates": [
+      {
+        "id": "石川_３区_近藤　和也",
+        "name": "近藤　和也",
+        "party": "立民",
+        "votes": 77247,
+        "is_winner": true
+      },
+      {
+        "id": "石川_３区_西田　昭二",
+        "name": "西田　昭二",
+        "party": "自民",
+        "votes": 61308,
+        "is_winner": false
+      },
+      {
+        "id": "石川_３区_南　章治",
+        "name": "南　章治",
+        "party": "共産",
+        "votes": 3438,
+        "is_winner": false
+      }
+    ],
+    "margin": 15939,
+    "total_votes": 141993
+  },
+  {
+    "id": "福井_１区",
+    "prefecture": "福井",
+    "name": "福井１区",
+    "candidates": [
+      {
+        "id": "福井_１区_稲田　朋美",
+        "name": "稲田　朋美",
+        "party": "自民",
+        "votes": 86906,
+        "is_winner": true
+      },
+      {
+        "id": "福井_１区_波多野　翼",
+        "name": "波多野　翼",
+        "party": "立民",
+        "votes": 70328,
+        "is_winner": false
+      },
+      {
+        "id": "福井_１区_田中　こはる",
+        "name": "田中　こはる",
+        "party": "参政",
+        "votes": 19716,
+        "is_winner": false
+      },
+      {
+        "id": "福井_１区_金元　幸枝",
+        "name": "金元　幸枝",
+        "party": "共産",
+        "votes": 11215,
+        "is_winner": false
+      },
+      {
+        "id": "福井_１区_西山　理恵",
+        "name": "西山　理恵",
+        "party": "無",
+        "votes": 9845,
+        "is_winner": false
+      }
+    ],
+    "margin": 16578,
+    "total_votes": 198010
+  },
+  {
+    "id": "福井_２区",
+    "prefecture": "福井",
+    "name": "福井２区",
+    "candidates": [
+      {
+        "id": "福井_２区_辻　英之",
+        "name": "辻　英之",
+        "party": "立民",
+        "votes": 54100,
+        "is_winner": true
+      },
+      {
+        "id": "福井_２区_斉木　武志",
+        "name": "斉木　武志",
+        "party": "維新",
+        "votes": 38749,
+        "is_winner": false
+      },
+      {
+        "id": "福井_２区_高木　毅",
+        "name": "高木　毅",
+        "party": "無",
+        "votes": 33532,
+        "is_winner": false
+      },
+      {
+        "id": "福井_２区_山本　拓",
+        "name": "山本　拓",
+        "party": "無",
+        "votes": 18656,
+        "is_winner": false
+      },
+      {
+        "id": "福井_２区_小柳　茂臣",
+        "name": "小柳　茂臣",
+        "party": "共産",
+        "votes": 3934,
+        "is_winner": false
+      }
+    ],
+    "margin": 15351,
+    "total_votes": 148971
+  },
+  {
+    "id": "岐阜_１区",
+    "prefecture": "岐阜",
+    "name": "岐阜１区",
+    "candidates": [
+      {
+        "id": "岐阜_１区_野田　聖子",
+        "name": "野田　聖子",
+        "party": "自民",
+        "votes": 100226,
+        "is_winner": true
+      },
+      {
+        "id": "岐阜_１区_山越　徹",
+        "name": "山越　徹",
+        "party": "共産",
+        "votes": 48325,
+        "is_winner": false
+      }
+    ],
+    "margin": 51901,
+    "total_votes": 148551
+  },
+  {
+    "id": "岐阜_２区",
+    "prefecture": "岐阜",
+    "name": "岐阜２区",
+    "candidates": [
+      {
+        "id": "岐阜_２区_棚橋　泰文",
+        "name": "棚橋　泰文",
+        "party": "自民",
+        "votes": 91183,
+        "is_winner": true
+      },
+      {
+        "id": "岐阜_２区_三尾　圭司",
+        "name": "三尾　圭司",
+        "party": "共産",
+        "votes": 33634,
+        "is_winner": false
+      },
+      {
+        "id": "岐阜_２区_伊藤　あゆみ",
+        "name": "伊藤　あゆみ",
+        "party": "無",
+        "votes": 22456,
+        "is_winner": false
+      }
+    ],
+    "margin": 57549,
+    "total_votes": 147273
+  },
+  {
+    "id": "岐阜_３区",
+    "prefecture": "岐阜",
+    "name": "岐阜３区",
+    "candidates": [
+      {
+        "id": "岐阜_３区_武藤　容治",
+        "name": "武藤　容治",
+        "party": "自民",
+        "votes": 98370,
+        "is_winner": true
+      },
+      {
+        "id": "岐阜_３区_仙田　晃宏",
+        "name": "仙田　晃宏",
+        "party": "国民",
+        "votes": 64039,
+        "is_winner": false
+      },
+      {
+        "id": "岐阜_３区_阪口　直人",
+        "name": "阪口　直人",
+        "party": "れいわ",
+        "votes": 48002,
+        "is_winner": false
+      }
+    ],
+    "margin": 34331,
+    "total_votes": 210411
+  },
+  {
+    "id": "岐阜_４区",
+    "prefecture": "岐阜",
+    "name": "岐阜４区",
+    "candidates": [
+      {
+        "id": "岐阜_４区_今井　雅人",
+        "name": "今井　雅人",
+        "party": "立民",
+        "votes": 114032,
+        "is_winner": true
+      },
+      {
+        "id": "岐阜_４区_金子　俊平",
+        "name": "金子　俊平",
+        "party": "自民",
+        "votes": 85129,
+        "is_winner": false
+      }
+    ],
+    "margin": 28903,
+    "total_votes": 199161
+  },
+  {
+    "id": "岐阜_５区",
+    "prefecture": "岐阜",
+    "name": "岐阜５区",
+    "candidates": [
+      {
+        "id": "岐阜_５区_古屋　圭司",
+        "name": "古屋　圭司",
+        "party": "自民",
+        "votes": 73679,
+        "is_winner": true
+      },
+      {
+        "id": "岐阜_５区_眞野　哲",
+        "name": "眞野　哲",
+        "party": "立民",
+        "votes": 58973,
+        "is_winner": false
+      },
+      {
+        "id": "岐阜_５区_山田　良司",
+        "name": "山田　良司",
+        "party": "維新",
+        "votes": 19973,
+        "is_winner": false
+      }
+    ],
+    "margin": 14706,
+    "total_votes": 152625
+  },
+  {
+    "id": "静岡_１区",
+    "prefecture": "静岡",
+    "name": "静岡１区",
+    "candidates": [
+      {
+        "id": "静岡_１区_上川　陽子",
+        "name": "上川　陽子",
+        "party": "自民",
+        "votes": 114278,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_１区_高橋　美穂",
+        "name": "高橋　美穂",
+        "party": "立民",
+        "votes": 47375,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_１区_山下　洸棋",
+        "name": "山下　洸棋",
+        "party": "維新",
+        "votes": 22239,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_１区_鈴木　節子",
+        "name": "鈴木　節子",
+        "party": "共産",
+        "votes": 13593,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_１区_鈴木　惇弘",
+        "name": "鈴木　惇弘",
+        "party": "無",
+        "votes": 3675,
+        "is_winner": false
+      }
+    ],
+    "margin": 66903,
+    "total_votes": 201160
+  },
+  {
+    "id": "静岡_２区",
+    "prefecture": "静岡",
+    "name": "静岡２区",
+    "candidates": [
+      {
+        "id": "静岡_２区_井林　辰憲",
+        "name": "井林　辰憲",
+        "party": "自民",
+        "votes": 113419,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_２区_鈴木　岳幸",
+        "name": "鈴木　岳幸",
+        "party": "立民",
+        "votes": 70131,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_２区_提坂　大介",
+        "name": "提坂　大介",
+        "party": "参政",
+        "votes": 22486,
+        "is_winner": false
+      }
+    ],
+    "margin": 43288,
+    "total_votes": 206036
+  },
+  {
+    "id": "静岡_３区",
+    "prefecture": "静岡",
+    "name": "静岡３区",
+    "candidates": [
+      {
+        "id": "静岡_３区_小山　展弘",
+        "name": "小山　展弘",
+        "party": "立民",
+        "votes": 92072,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_３区_山本　裕三",
+        "name": "山本　裕三",
+        "party": "自民",
+        "votes": 61599,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_３区_宮沢　博行",
+        "name": "宮沢　博行",
+        "party": "無",
+        "votes": 37975,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_３区_釜下　由佳子",
+        "name": "釜下　由佳子",
+        "party": "維新",
+        "votes": 17573,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_３区_杉村　義夫",
+        "name": "杉村　義夫",
+        "party": "無",
+        "votes": 3996,
+        "is_winner": false
+      }
+    ],
+    "margin": 30473,
+    "total_votes": 213215
+  },
+  {
+    "id": "静岡_４区",
+    "prefecture": "静岡",
+    "name": "静岡４区",
+    "candidates": [
+      {
+        "id": "静岡_４区_田中　健",
+        "name": "田中　健",
+        "party": "国民",
+        "votes": 82448,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_４区_深澤　陽一",
+        "name": "深澤　陽一",
+        "party": "自民",
+        "votes": 79801,
+        "is_winner": false
+      }
+    ],
+    "margin": 2647,
+    "total_votes": 162249
+  },
+  {
+    "id": "静岡_５区",
+    "prefecture": "静岡",
+    "name": "静岡５区",
+    "candidates": [
+      {
+        "id": "静岡_５区_細野　豪志",
+        "name": "細野　豪志",
+        "party": "自民",
+        "votes": 141021,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_５区_外山　和之",
+        "name": "外山　和之",
+        "party": "立民",
+        "votes": 66612,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_５区_下山　一美",
+        "name": "下山　一美",
+        "party": "共産",
+        "votes": 15605,
+        "is_winner": false
+      }
+    ],
+    "margin": 74409,
+    "total_votes": 223238
+  },
+  {
+    "id": "静岡_６区",
+    "prefecture": "静岡",
+    "name": "静岡６区",
+    "candidates": [
+      {
+        "id": "静岡_６区_渡辺　周",
+        "name": "渡辺　周",
+        "party": "立民",
+        "votes": 104222,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_６区_勝俣　孝明",
+        "name": "勝俣　孝明",
+        "party": "自民",
+        "votes": 100088,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_６区_冨谷　皐介",
+        "name": "冨谷　皐介",
+        "party": "れいわ",
+        "votes": 21003,
+        "is_winner": false
+      }
+    ],
+    "margin": 4134,
+    "total_votes": 225313
+  },
+  {
+    "id": "静岡_７区",
+    "prefecture": "静岡",
+    "name": "静岡７区",
+    "candidates": [
+      {
+        "id": "静岡_７区_城内　実",
+        "name": "城内　実",
+        "party": "自民",
+        "votes": 115175,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_７区_日吉　雄太",
+        "name": "日吉　雄太",
+        "party": "立民",
+        "votes": 54789,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_７区_吉川　奈緒子",
+        "name": "吉川　奈緒子",
+        "party": "共産",
+        "votes": 12032,
+        "is_winner": false
+      }
+    ],
+    "margin": 60386,
+    "total_votes": 181996
+  },
+  {
+    "id": "静岡_８区",
+    "prefecture": "静岡",
+    "name": "静岡８区",
+    "candidates": [
+      {
+        "id": "静岡_８区_源馬　謙太郎",
+        "name": "源馬　謙太郎",
+        "party": "立民",
+        "votes": 108212,
+        "is_winner": true
+      },
+      {
+        "id": "静岡_８区_稲葉　大輔",
+        "name": "稲葉　大輔",
+        "party": "自民",
+        "votes": 62333,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_８区_寺嶋　瑞仁",
+        "name": "寺嶋　瑞仁",
+        "party": "維新",
+        "votes": 16251,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_８区_平賀　高成",
+        "name": "平賀　高成",
+        "party": "共産",
+        "votes": 11059,
+        "is_winner": false
+      },
+      {
+        "id": "静岡_８区_加藤　順久",
+        "name": "加藤　順久",
+        "party": "無",
+        "votes": 8808,
+        "is_winner": false
+      }
+    ],
+    "margin": 45879,
+    "total_votes": 206663
+  },
+  {
+    "id": "愛知_１区",
+    "prefecture": "愛知",
+    "name": "愛知１区",
+    "candidates": [
+      {
+        "id": "愛知_１区_河村　たかし",
+        "name": "河村　たかし",
+        "party": "保守",
+        "votes": 95613,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１区_吉田　統彦",
+        "name": "吉田　統彦",
+        "party": "立民",
+        "votes": 48304,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１区_熊田　裕通",
+        "name": "熊田　裕通",
+        "party": "自民",
+        "votes": 43381,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１区_山本　耕一",
+        "name": "山本　耕一",
+        "party": "維新",
+        "votes": 17810,
+        "is_winner": false
+      }
+    ],
+    "margin": 47309,
+    "total_votes": 205108
+  },
+  {
+    "id": "愛知_２区",
+    "prefecture": "愛知",
+    "name": "愛知２区",
+    "candidates": [
+      {
+        "id": "愛知_２区_古川　元久",
+        "name": "古川　元久",
+        "party": "国民",
+        "votes": 121739,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_２区_中川　貴元",
+        "name": "中川　貴元",
+        "party": "自民",
+        "votes": 50195,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_２区_室園　幸志",
+        "name": "室園　幸志",
+        "party": "維新",
+        "votes": 18864,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_２区_酒井　健太朗",
+        "name": "酒井　健太朗",
+        "party": "共産",
+        "votes": 17422,
+        "is_winner": false
+      }
+    ],
+    "margin": 71544,
+    "total_votes": 208220
+  },
+  {
+    "id": "愛知_３区",
+    "prefecture": "愛知",
+    "name": "愛知３区",
+    "candidates": [
+      {
+        "id": "愛知_３区_近藤　昭一",
+        "name": "近藤　昭一",
+        "party": "立民",
+        "votes": 103624,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_３区_水野　良彦",
+        "name": "水野　良彦",
+        "party": "自民",
+        "votes": 54199,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_３区_皆川　雅一",
+        "name": "皆川　雅一",
+        "party": "維新",
+        "votes": 27187,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_３区_大橋　享",
+        "name": "大橋　享",
+        "party": "保守",
+        "votes": 18412,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_３区_杉本　純子",
+        "name": "杉本　純子",
+        "party": "参政",
+        "votes": 17234,
+        "is_winner": false
+      }
+    ],
+    "margin": 49425,
+    "total_votes": 220656
+  },
+  {
+    "id": "愛知_４区",
+    "prefecture": "愛知",
+    "name": "愛知４区",
+    "candidates": [
+      {
+        "id": "愛知_４区_牧　義夫",
+        "name": "牧　義夫",
+        "party": "立民",
+        "votes": 63668,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_４区_工藤　彰三",
+        "name": "工藤　彰三",
+        "party": "自民",
+        "votes": 54385,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_４区_中田　千代",
+        "name": "中田　千代",
+        "party": "維新",
+        "votes": 22661,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_４区_麻生　知沙",
+        "name": "麻生　知沙",
+        "party": "保守",
+        "votes": 19805,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_４区_高橋　祐介",
+        "name": "高橋　祐介",
+        "party": "共産",
+        "votes": 14453,
+        "is_winner": false
+      }
+    ],
+    "margin": 9283,
+    "total_votes": 174972
+  },
+  {
+    "id": "愛知_５区",
+    "prefecture": "愛知",
+    "name": "愛知５区",
+    "candidates": [
+      {
+        "id": "愛知_５区_西川　厚志",
+        "name": "西川　厚志",
+        "party": "立民",
+        "votes": 54818,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_５区_神田　憲次",
+        "name": "神田　憲次",
+        "party": "自民",
+        "votes": 36662,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_５区_岬　麻紀",
+        "name": "岬　麻紀",
+        "party": "維新",
+        "votes": 33568,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_５区_田中　克和",
+        "name": "田中　克和",
+        "party": "保守",
+        "votes": 22007,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_５区_江上　博之",
+        "name": "江上　博之",
+        "party": "共産",
+        "votes": 11601,
+        "is_winner": false
+      }
+    ],
+    "margin": 18156,
+    "total_votes": 158656
+  },
+  {
+    "id": "愛知_６区",
+    "prefecture": "愛知",
+    "name": "愛知６区",
+    "candidates": [
+      {
+        "id": "愛知_６区_丹羽　秀樹",
+        "name": "丹羽　秀樹",
+        "party": "自民",
+        "votes": 92083,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_６区_前田　雄吉",
+        "name": "前田　雄吉",
+        "party": "無",
+        "votes": 32608,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_６区_大西　雅人",
+        "name": "大西　雅人",
+        "party": "社民",
+        "votes": 26854,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_６区_原田　学",
+        "name": "原田　学",
+        "party": "共産",
+        "votes": 26425,
+        "is_winner": false
+      }
+    ],
+    "margin": 59475,
+    "total_votes": 177970
+  },
+  {
+    "id": "愛知_７区",
+    "prefecture": "愛知",
+    "name": "愛知７区",
+    "candidates": [
+      {
+        "id": "愛知_７区_日野　紗里亜",
+        "name": "日野　紗里亜",
+        "party": "国民",
+        "votes": 111406,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_７区_鈴木　淳司",
+        "name": "鈴木　淳司",
+        "party": "自民",
+        "votes": 71176,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_７区_鈴木　弘一",
+        "name": "鈴木　弘一",
+        "party": "共産",
+        "votes": 16780,
+        "is_winner": false
+      }
+    ],
+    "margin": 40230,
+    "total_votes": 199362
+  },
+  {
+    "id": "愛知_８区",
+    "prefecture": "愛知",
+    "name": "愛知８区",
+    "candidates": [
+      {
+        "id": "愛知_８区_伴野　豊",
+        "name": "伴野　豊",
+        "party": "立民",
+        "votes": 115282,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_８区_伊藤　忠彦",
+        "name": "伊藤　忠彦",
+        "party": "自民",
+        "votes": 95844,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_８区_古川　大暁",
+        "name": "古川　大暁",
+        "party": "共産",
+        "votes": 20799,
+        "is_winner": false
+      }
+    ],
+    "margin": 19438,
+    "total_votes": 231925
+  },
+  {
+    "id": "愛知_９区",
+    "prefecture": "愛知",
+    "name": "愛知９区",
+    "candidates": [
+      {
+        "id": "愛知_９区_岡本　充功",
+        "name": "岡本　充功",
+        "party": "立民",
+        "votes": 91152,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_９区_長坂　康正",
+        "name": "長坂　康正",
+        "party": "自民",
+        "votes": 78726,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_９区_伊藤　恵子",
+        "name": "伊藤　恵子",
+        "party": "共産",
+        "votes": 19899,
+        "is_winner": false
+      }
+    ],
+    "margin": 12426,
+    "total_votes": 189777
+  },
+  {
+    "id": "愛知_１０区",
+    "prefecture": "愛知",
+    "name": "愛知１０区",
+    "candidates": [
+      {
+        "id": "愛知_１０区_藤原　規眞",
+        "name": "藤原　規眞",
+        "party": "立民",
+        "votes": 59691,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１０区_若山　慎司",
+        "name": "若山　慎司",
+        "party": "自民",
+        "votes": 59529,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１０区_杉本　和巳",
+        "name": "杉本　和巳",
+        "party": "維新",
+        "votes": 52957,
+        "is_winner": false
+      }
+    ],
+    "margin": 162,
+    "total_votes": 172177
+  },
+  {
+    "id": "愛知_１１区",
+    "prefecture": "愛知",
+    "name": "愛知１１区",
+    "candidates": [
+      {
+        "id": "愛知_１１区_丹野　みどり",
+        "name": "丹野　みどり",
+        "party": "国民",
+        "votes": 134528,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１１区_八木　哲也",
+        "name": "八木　哲也",
+        "party": "自民",
+        "votes": 90844,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１１区_植田　和男",
+        "name": "植田　和男",
+        "party": "共産",
+        "votes": 11105,
+        "is_winner": false
+      }
+    ],
+    "margin": 43684,
+    "total_votes": 236477
+  },
+  {
+    "id": "愛知_１２区",
+    "prefecture": "愛知",
+    "name": "愛知１２区",
+    "candidates": [
+      {
+        "id": "愛知_１２区_重徳　和彦",
+        "name": "重徳　和彦",
+        "party": "立民",
+        "votes": 126940,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１２区_青山　周平",
+        "name": "青山　周平",
+        "party": "自民",
+        "votes": 86025,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１２区_中川　博登",
+        "name": "中川　博登",
+        "party": "維新",
+        "votes": 28489,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１２区_関　久一",
+        "name": "関　久一",
+        "party": "共産",
+        "votes": 10118,
+        "is_winner": false
+      }
+    ],
+    "margin": 40915,
+    "total_votes": 251572
+  },
+  {
+    "id": "愛知_１３区",
+    "prefecture": "愛知",
+    "name": "愛知１３区",
+    "candidates": [
+      {
+        "id": "愛知_１３区_大西　健介",
+        "name": "大西　健介",
+        "party": "立民",
+        "votes": 137944,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１３区_石井　拓",
+        "name": "石井　拓",
+        "party": "自民",
+        "votes": 90214,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１３区_牛田　清博",
+        "name": "牛田　清博",
+        "party": "共産",
+        "votes": 16818,
+        "is_winner": false
+      }
+    ],
+    "margin": 47730,
+    "total_votes": 244976
+  },
+  {
+    "id": "愛知_１４区",
+    "prefecture": "愛知",
+    "name": "愛知１４区",
+    "candidates": [
+      {
+        "id": "愛知_１４区_今枝　宗一郎",
+        "name": "今枝　宗一郎",
+        "party": "自民",
+        "votes": 90334,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１４区_大嶽　理恵",
+        "name": "大嶽　理恵",
+        "party": "立民",
+        "votes": 64763,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１４区_浅尾　大輔",
+        "name": "浅尾　大輔",
+        "party": "共産",
+        "votes": 9970,
+        "is_winner": false
+      }
+    ],
+    "margin": 25571,
+    "total_votes": 165067
+  },
+  {
+    "id": "愛知_１５区",
+    "prefecture": "愛知",
+    "name": "愛知１５区",
+    "candidates": [
+      {
+        "id": "愛知_１５区_根本　幸典",
+        "name": "根本　幸典",
+        "party": "自民",
+        "votes": 71012,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１５区_関　健一郎",
+        "name": "関　健一郎",
+        "party": "維新",
+        "votes": 44945,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１５区_小山　千帆",
+        "name": "小山　千帆",
+        "party": "立民",
+        "votes": 42837,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１５区_辻　恵",
+        "name": "辻　恵",
+        "party": "れいわ",
+        "votes": 17529,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１５区_高木　繁",
+        "name": "高木　繁",
+        "party": "共産",
+        "votes": 7220,
+        "is_winner": false
+      }
+    ],
+    "margin": 26067,
+    "total_votes": 183543
+  },
+  {
+    "id": "愛知_１６区",
+    "prefecture": "愛知",
+    "name": "愛知１６区",
+    "candidates": [
+      {
+        "id": "愛知_１６区_福田　徹",
+        "name": "福田　徹",
+        "party": "国民",
+        "votes": 65923,
+        "is_winner": true
+      },
+      {
+        "id": "愛知_１６区_犬飼　明佳",
+        "name": "犬飼　明佳",
+        "party": "公明",
+        "votes": 63095,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１６区_松田　功",
+        "name": "松田　功",
+        "party": "立民",
+        "votes": 61792,
+        "is_winner": false
+      },
+      {
+        "id": "愛知_１６区_松崎　省三",
+        "name": "松崎　省三",
+        "party": "共産",
+        "votes": 10634,
+        "is_winner": false
+      }
+    ],
+    "margin": 2828,
+    "total_votes": 201444
+  },
+  {
+    "id": "三重_１区",
+    "prefecture": "三重",
+    "name": "三重１区",
+    "candidates": [
+      {
+        "id": "三重_１区_田村　憲久",
+        "name": "田村　憲久",
+        "party": "自民",
+        "votes": 107926,
+        "is_winner": true
+      },
+      {
+        "id": "三重_１区_福森　和歌子",
+        "name": "福森　和歌子",
+        "party": "立民",
+        "votes": 63770,
+        "is_winner": false
+      },
+      {
+        "id": "三重_１区_出口　洋介",
+        "name": "出口　洋介",
+        "party": "共産",
+        "votes": 15776,
+        "is_winner": false
+      }
+    ],
+    "margin": 44156,
+    "total_votes": 187472
+  },
+  {
+    "id": "三重_２区",
+    "prefecture": "三重",
+    "name": "三重２区",
+    "candidates": [
+      {
+        "id": "三重_２区_下野　幸助",
+        "name": "下野　幸助",
+        "party": "立民",
+        "votes": 90930,
+        "is_winner": true
+      },
+      {
+        "id": "三重_２区_川崎　秀人",
+        "name": "川崎　秀人",
+        "party": "自民",
+        "votes": 85863,
+        "is_winner": false
+      },
+      {
+        "id": "三重_２区_森口　あゆみ",
+        "name": "森口　あゆみ",
+        "party": "維新",
+        "votes": 23904,
+        "is_winner": false
+      },
+      {
+        "id": "三重_２区_山本　里香",
+        "name": "山本　里香",
+        "party": "共産",
+        "votes": 15753,
+        "is_winner": false
+      }
+    ],
+    "margin": 5067,
+    "total_votes": 216450
+  },
+  {
+    "id": "三重_３区",
+    "prefecture": "三重",
+    "name": "三重３区",
+    "candidates": [
+      {
+        "id": "三重_３区_岡田　克也",
+        "name": "岡田　克也",
+        "party": "立民",
+        "votes": 137953,
+        "is_winner": true
+      },
+      {
+        "id": "三重_３区_石原　正敬",
+        "name": "石原　正敬",
+        "party": "自民",
+        "votes": 56630,
+        "is_winner": false
+      },
+      {
+        "id": "三重_３区_伊藤　昌志",
+        "name": "伊藤　昌志",
+        "party": "維新",
+        "votes": 31998,
+        "is_winner": false
+      }
+    ],
+    "margin": 81323,
+    "total_votes": 226581
+  },
+  {
+    "id": "三重_４区",
+    "prefecture": "三重",
+    "name": "三重４区",
+    "candidates": [
+      {
+        "id": "三重_４区_鈴木　英敬",
+        "name": "鈴木　英敬",
+        "party": "自民",
+        "votes": 96619,
+        "is_winner": true
+      },
+      {
+        "id": "三重_４区_青沼　陽一郎",
+        "name": "青沼　陽一郎",
+        "party": "立民",
+        "votes": 53360,
+        "is_winner": false
+      },
+      {
+        "id": "三重_４区_中川　民英",
+        "name": "中川　民英",
+        "party": "共産",
+        "votes": 10548,
+        "is_winner": false
+      }
+    ],
+    "margin": 43259,
+    "total_votes": 160527
+  },
+  {
+    "id": "滋賀_１区",
+    "prefecture": "滋賀",
+    "name": "滋賀１区",
+    "candidates": [
+      {
+        "id": "滋賀_１区_斎藤　アレックス",
+        "name": "斎藤　アレックス",
+        "party": "維新",
+        "votes": 74126,
+        "is_winner": true
+      },
+      {
+        "id": "滋賀_１区_大岡　敏孝",
+        "name": "大岡　敏孝",
+        "party": "自民",
+        "votes": 70033,
+        "is_winner": false
+      },
+      {
+        "id": "滋賀_１区_黄野瀬　明子",
+        "name": "黄野瀬　明子",
+        "party": "共産",
+        "votes": 28359,
+        "is_winner": false
+      }
+    ],
+    "margin": 4093,
+    "total_votes": 172518
+  },
+  {
+    "id": "滋賀_２区",
+    "prefecture": "滋賀",
+    "name": "滋賀２区",
+    "candidates": [
+      {
+        "id": "滋賀_２区_上野　賢一郎",
+        "name": "上野　賢一郎",
+        "party": "自民",
+        "votes": 99347,
+        "is_winner": true
+      },
+      {
+        "id": "滋賀_２区_平尾　道雄",
+        "name": "平尾　道雄",
+        "party": "立民",
+        "votes": 65324,
+        "is_winner": false
+      },
+      {
+        "id": "滋賀_２区_徳永　久志",
+        "name": "徳永　久志",
+        "party": "維新",
+        "votes": 62646,
+        "is_winner": false
+      }
+    ],
+    "margin": 34023,
+    "total_votes": 227317
+  },
+  {
+    "id": "滋賀_３区",
+    "prefecture": "滋賀",
+    "name": "滋賀３区",
+    "candidates": [
+      {
+        "id": "滋賀_３区_武村　展英",
+        "name": "武村　展英",
+        "party": "自民",
+        "votes": 95874,
+        "is_winner": true
+      },
+      {
+        "id": "滋賀_３区_出路　真吾",
+        "name": "出路　真吾",
+        "party": "維新",
+        "votes": 64628,
+        "is_winner": false
+      },
+      {
+        "id": "滋賀_３区_北野　裕子",
+        "name": "北野　裕子",
+        "party": "参政",
+        "votes": 26862,
+        "is_winner": false
+      },
+      {
+        "id": "滋賀_３区_佐藤　耕平",
+        "name": "佐藤　耕平",
+        "party": "共産",
+        "votes": 25446,
+        "is_winner": false
+      }
+    ],
+    "margin": 31246,
+    "total_votes": 212810
+  },
+  {
+    "id": "京都_１区",
+    "prefecture": "京都",
+    "name": "京都１区",
+    "candidates": [
+      {
+        "id": "京都_１区_勝目　康",
+        "name": "勝目　康",
+        "party": "自民",
+        "votes": 63057,
+        "is_winner": true
+      },
+      {
+        "id": "京都_１区_堀場　幸子",
+        "name": "堀場　幸子",
+        "party": "維新",
+        "votes": 37876,
+        "is_winner": false
+      },
+      {
+        "id": "京都_１区_平竹　耕三",
+        "name": "平竹　耕三",
+        "party": "立民",
+        "votes": 36232,
+        "is_winner": false
+      },
+      {
+        "id": "京都_１区_井坂　博文",
+        "name": "井坂　博文",
+        "party": "共産",
+        "votes": 29988,
+        "is_winner": false
+      },
+      {
+        "id": "京都_１区_安持　成美",
+        "name": "安持　成美",
+        "party": "れいわ",
+        "votes": 14531,
+        "is_winner": false
+      },
+      {
+        "id": "京都_１区_安達　悠司",
+        "name": "安達　悠司",
+        "party": "参政",
+        "votes": 13825,
+        "is_winner": false
+      },
+      {
+        "id": "京都_１区_山下　博子",
+        "name": "山下　博子",
+        "party": "無",
+        "votes": 2385,
+        "is_winner": false
+      }
+    ],
+    "margin": 25181,
+    "total_votes": 197894
+  },
+  {
+    "id": "京都_２区",
+    "prefecture": "京都",
+    "name": "京都２区",
+    "candidates": [
+      {
+        "id": "京都_２区_前原　誠司",
+        "name": "前原　誠司",
+        "party": "維新",
+        "votes": 60922,
+        "is_winner": true
+      },
+      {
+        "id": "京都_２区_堀川　朗子",
+        "name": "堀川　朗子",
+        "party": "共産",
+        "votes": 30697,
+        "is_winner": false
+      },
+      {
+        "id": "京都_２区_佐野　英志",
+        "name": "佐野　英志",
+        "party": "自民",
+        "votes": 29638,
+        "is_winner": false
+      },
+      {
+        "id": "京都_２区_小松　広明",
+        "name": "小松　広明",
+        "party": "参政",
+        "votes": 8270,
+        "is_winner": false
+      },
+      {
+        "id": "京都_２区_本田　裕典",
+        "name": "本田　裕典",
+        "party": "無",
+        "votes": 2450,
+        "is_winner": false
+      },
+      {
+        "id": "京都_２区_弘田　哲雄",
+        "name": "弘田　哲雄",
+        "party": "無",
+        "votes": 851,
+        "is_winner": false
+      }
+    ],
+    "margin": 30225,
+    "total_votes": 132828
+  },
+  {
+    "id": "京都_３区",
+    "prefecture": "京都",
+    "name": "京都３区",
+    "candidates": [
+      {
+        "id": "京都_３区_泉　健太",
+        "name": "泉　健太",
+        "party": "立民",
+        "votes": 82823,
+        "is_winner": true
+      },
+      {
+        "id": "京都_３区_森　干晟",
+        "name": "森　干晟",
+        "party": "自民",
+        "votes": 38632,
+        "is_winner": false
+      },
+      {
+        "id": "京都_３区_木村　元紀",
+        "name": "木村　元紀",
+        "party": "維新",
+        "votes": 24948,
+        "is_winner": false
+      },
+      {
+        "id": "京都_３区_西山　頌秀",
+        "name": "西山　頌秀",
+        "party": "共産",
+        "votes": 19002,
+        "is_winner": false
+      },
+      {
+        "id": "京都_３区_吉田　真由美",
+        "name": "吉田　真由美",
+        "party": "参政",
+        "votes": 9916,
+        "is_winner": false
+      }
+    ],
+    "margin": 44191,
+    "total_votes": 175321
+  },
+  {
+    "id": "京都_４区",
+    "prefecture": "京都",
+    "name": "京都４区",
+    "candidates": [
+      {
+        "id": "京都_４区_北神　圭朗",
+        "name": "北神　圭朗",
+        "party": "無",
+        "votes": 102063,
+        "is_winner": true
+      },
+      {
+        "id": "京都_４区_田中　英之",
+        "name": "田中　英之",
+        "party": "自民",
+        "votes": 59897,
+        "is_winner": false
+      },
+      {
+        "id": "京都_４区_吉田　幸一",
+        "name": "吉田　幸一",
+        "party": "共産",
+        "votes": 37174,
+        "is_winner": false
+      }
+    ],
+    "margin": 42166,
+    "total_votes": 199134
+  },
+  {
+    "id": "京都_５区",
+    "prefecture": "京都",
+    "name": "京都５区",
+    "candidates": [
+      {
+        "id": "京都_５区_本田　太郎",
+        "name": "本田　太郎",
+        "party": "自民",
+        "votes": 57455,
+        "is_winner": true
+      },
+      {
+        "id": "京都_５区_山本　和嘉子",
+        "name": "山本　和嘉子",
+        "party": "立民",
+        "votes": 32355,
+        "is_winner": false
+      },
+      {
+        "id": "京都_５区_道本　隆也",
+        "name": "道本　隆也",
+        "party": "維新",
+        "votes": 20387,
+        "is_winner": false
+      },
+      {
+        "id": "京都_５区_山内　健",
+        "name": "山内　健",
+        "party": "共産",
+        "votes": 13831,
+        "is_winner": false
+      }
+    ],
+    "margin": 25100,
+    "total_votes": 124028
+  },
+  {
+    "id": "京都_６区",
+    "prefecture": "京都",
+    "name": "京都６区",
+    "candidates": [
+      {
+        "id": "京都_６区_山井　和則",
+        "name": "山井　和則",
+        "party": "立民",
+        "votes": 97542,
+        "is_winner": true
+      },
+      {
+        "id": "京都_６区_園崎　弘道",
+        "name": "園崎　弘道",
+        "party": "自民",
+        "votes": 65152,
+        "is_winner": false
+      },
+      {
+        "id": "京都_６区_中嶋　秀樹",
+        "name": "中嶋　秀樹",
+        "party": "維新",
+        "votes": 38590,
+        "is_winner": false
+      },
+      {
+        "id": "京都_６区_上條　亮一",
+        "name": "上條　亮一",
+        "party": "共産",
+        "votes": 21405,
+        "is_winner": false
+      },
+      {
+        "id": "京都_６区_安藤　裕",
+        "name": "安藤　裕",
+        "party": "参政",
+        "votes": 20480,
+        "is_winner": false
+      }
+    ],
+    "margin": 32390,
+    "total_votes": 243169
+  },
+  {
+    "id": "大阪_１区",
+    "prefecture": "大阪",
+    "name": "大阪１区",
+    "candidates": [
+      {
+        "id": "大阪_１区_井上　英孝",
+        "name": "井上　英孝",
+        "party": "維新",
+        "votes": 102113,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１区_大西　宏幸",
+        "name": "大西　宏幸",
+        "party": "自民",
+        "votes": 56347,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１区_竹内　祥倫",
+        "name": "竹内　祥倫",
+        "party": "共産",
+        "votes": 27312,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１区_宮出　千慧",
+        "name": "宮出　千慧",
+        "party": "参政",
+        "votes": 25908,
+        "is_winner": false
+      }
+    ],
+    "margin": 45766,
+    "total_votes": 211680
+  },
+  {
+    "id": "大阪_２区",
+    "prefecture": "大阪",
+    "name": "大阪２区",
+    "candidates": [
+      {
+        "id": "大阪_２区_守島　正",
+        "name": "守島　正",
+        "party": "維新",
+        "votes": 99277,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_２区_左藤　章",
+        "name": "左藤　章",
+        "party": "自民",
+        "votes": 67833,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_２区_小川　陽太",
+        "name": "小川　陽太",
+        "party": "共産",
+        "votes": 27853,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_２区_藤田　美季",
+        "name": "藤田　美季",
+        "party": "参政",
+        "votes": 19893,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_２区_堀内　孝雄",
+        "name": "堀内　孝雄",
+        "party": "無",
+        "votes": 9796,
+        "is_winner": false
+      }
+    ],
+    "margin": 31444,
+    "total_votes": 224652
+  },
+  {
+    "id": "大阪_３区",
+    "prefecture": "大阪",
+    "name": "大阪３区",
+    "candidates": [
+      {
+        "id": "大阪_３区_東　徹",
+        "name": "東　徹",
+        "party": "維新",
+        "votes": 74546,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_３区_佐藤　茂樹",
+        "name": "佐藤　茂樹",
+        "party": "公明",
+        "votes": 52107,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_３区_萩原　仁",
+        "name": "萩原　仁",
+        "party": "立民",
+        "votes": 22878,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_３区_渡部　結",
+        "name": "渡部　結",
+        "party": "共産",
+        "votes": 22218,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_３区_中条　栄太郎",
+        "name": "中条　栄太郎",
+        "party": "無",
+        "votes": 8726,
+        "is_winner": false
+      }
+    ],
+    "margin": 22439,
+    "total_votes": 180475
+  },
+  {
+    "id": "大阪_４区",
+    "prefecture": "大阪",
+    "name": "大阪４区",
+    "candidates": [
+      {
+        "id": "大阪_４区_美延　映夫",
+        "name": "美延　映夫",
+        "party": "維新",
+        "votes": 94129,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_４区_中山　泰秀",
+        "name": "中山　泰秀",
+        "party": "自民",
+        "votes": 64424,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_４区_清水　忠史",
+        "name": "清水　忠史",
+        "party": "共産",
+        "votes": 33585,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_４区_黒川　洋司",
+        "name": "黒川　洋司",
+        "party": "参政",
+        "votes": 20038,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_４区_寺川　幸生栄",
+        "name": "寺川　幸生栄",
+        "party": "無",
+        "votes": 6008,
+        "is_winner": false
+      }
+    ],
+    "margin": 29705,
+    "total_votes": 218184
+  },
+  {
+    "id": "大阪_５区",
+    "prefecture": "大阪",
+    "name": "大阪５区",
+    "candidates": [
+      {
+        "id": "大阪_５区_梅村　聡",
+        "name": "梅村　聡",
+        "party": "維新",
+        "votes": 87100,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_５区_国重　徹",
+        "name": "国重　徹",
+        "party": "公明",
+        "votes": 65872,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_５区_大石　晃子",
+        "name": "大石　晃子",
+        "party": "れいわ",
+        "votes": 26789,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_５区_宮本　岳志",
+        "name": "宮本　岳志",
+        "party": "共産",
+        "votes": 24480,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_５区_石橋　篤史",
+        "name": "石橋　篤史",
+        "party": "参政",
+        "votes": 14054,
+        "is_winner": false
+      }
+    ],
+    "margin": 21228,
+    "total_votes": 218295
+  },
+  {
+    "id": "大阪_６区",
+    "prefecture": "大阪",
+    "name": "大阪６区",
+    "candidates": [
+      {
+        "id": "大阪_６区_西田　薫",
+        "name": "西田　薫",
+        "party": "維新",
+        "votes": 77905,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_６区_伊佐　進一",
+        "name": "伊佐　進一",
+        "party": "公明",
+        "votes": 69058,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_６区_福留　陽子",
+        "name": "福留　陽子",
+        "party": "立民",
+        "votes": 19877,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_６区_渡司　考一",
+        "name": "渡司　考一",
+        "party": "共産",
+        "votes": 16205,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_６区_月足　舞子",
+        "name": "月足　舞子",
+        "party": "参政",
+        "votes": 15016,
+        "is_winner": false
+      }
+    ],
+    "margin": 8847,
+    "total_votes": 198061
+  },
+  {
+    "id": "大阪_７区",
+    "prefecture": "大阪",
+    "name": "大阪７区",
+    "candidates": [
+      {
+        "id": "大阪_７区_奥下　剛光",
+        "name": "奥下　剛光",
+        "party": "維新",
+        "votes": 95367,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_７区_渡嘉敷　奈緒美",
+        "name": "渡嘉敷　奈緒美",
+        "party": "自民",
+        "votes": 66435,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_７区_川添　健真",
+        "name": "川添　健真",
+        "party": "共産",
+        "votes": 32368,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_７区_池上　和日子",
+        "name": "池上　和日子",
+        "party": "参政",
+        "votes": 19941,
+        "is_winner": false
+      }
+    ],
+    "margin": 28932,
+    "total_votes": 214111
+  },
+  {
+    "id": "大阪_８区",
+    "prefecture": "大阪",
+    "name": "大阪８区",
+    "candidates": [
+      {
+        "id": "大阪_８区_漆間　譲司",
+        "name": "漆間　譲司",
+        "party": "維新",
+        "votes": 84503,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_８区_高麗　啓一郎",
+        "name": "高麗　啓一郎",
+        "party": "自民",
+        "votes": 66582,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_８区_平岩　征樹",
+        "name": "平岩　征樹",
+        "party": "国民",
+        "votes": 40552,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_８区_平川　節代",
+        "name": "平川　節代",
+        "party": "共産",
+        "votes": 24277,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_８区_谷　浩一郎",
+        "name": "谷　浩一郎",
+        "party": "参政",
+        "votes": 15272,
+        "is_winner": false
+      }
+    ],
+    "margin": 17921,
+    "total_votes": 231186
+  },
+  {
+    "id": "大阪_９区",
+    "prefecture": "大阪",
+    "name": "大阪９区",
+    "candidates": [
+      {
+        "id": "大阪_９区_萩原　佳",
+        "name": "萩原　佳",
+        "party": "維新",
+        "votes": 84068,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_９区_東田　淳平",
+        "name": "東田　淳平",
+        "party": "自民",
+        "votes": 62170,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_９区_長崎　由美子",
+        "name": "長崎　由美子",
+        "party": "社民",
+        "votes": 27617,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_９区_片岡　真",
+        "name": "片岡　真",
+        "party": "参政",
+        "votes": 19690,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_９区_磯部　和哉",
+        "name": "磯部　和哉",
+        "party": "無",
+        "votes": 3962,
+        "is_winner": false
+      }
+    ],
+    "margin": 21898,
+    "total_votes": 197507
+  },
+  {
+    "id": "大阪_１０区",
+    "prefecture": "大阪",
+    "name": "大阪１０区",
+    "candidates": [
+      {
+        "id": "大阪_１０区_池下　卓",
+        "name": "池下　卓",
+        "party": "維新",
+        "votes": 79621,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１０区_尾辻　かな子",
+        "name": "尾辻　かな子",
+        "party": "立民",
+        "votes": 58971,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１０区_加納　陽之助",
+        "name": "加納　陽之助",
+        "party": "自民",
+        "votes": 41838,
+        "is_winner": false
+      }
+    ],
+    "margin": 20650,
+    "total_votes": 180430
+  },
+  {
+    "id": "大阪_１１区",
+    "prefecture": "大阪",
+    "name": "大阪１１区",
+    "candidates": [
+      {
+        "id": "大阪_１１区_中司　宏",
+        "name": "中司　宏",
+        "party": "維新",
+        "votes": 115411,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１１区_大辻　沙耶",
+        "name": "大辻　沙耶",
+        "party": "自民",
+        "votes": 59557,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１１区_北尾　学",
+        "name": "北尾　学",
+        "party": "共産",
+        "votes": 32733,
+        "is_winner": false
+      }
+    ],
+    "margin": 55854,
+    "total_votes": 207701
+  },
+  {
+    "id": "大阪_１２区",
+    "prefecture": "大阪",
+    "name": "大阪１２区",
+    "candidates": [
+      {
+        "id": "大阪_１２区_藤田　文武",
+        "name": "藤田　文武",
+        "party": "維新",
+        "votes": 86380,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１２区_北川　晋平",
+        "name": "北川　晋平",
+        "party": "自民",
+        "votes": 55658,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１２区_太田　徹",
+        "name": "太田　徹",
+        "party": "共産",
+        "votes": 22970,
+        "is_winner": false
+      }
+    ],
+    "margin": 30722,
+    "total_votes": 165008
+  },
+  {
+    "id": "大阪_１３区",
+    "prefecture": "大阪",
+    "name": "大阪１３区",
+    "candidates": [
+      {
+        "id": "大阪_１３区_岩谷　良平",
+        "name": "岩谷　良平",
+        "party": "維新",
+        "votes": 79898,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１３区_宗清　皇一",
+        "name": "宗清　皇一",
+        "party": "自民",
+        "votes": 69600,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１３区_八幡　愛",
+        "name": "八幡　愛",
+        "party": "れいわ",
+        "votes": 22482,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１３区_寳井　晃美",
+        "name": "寳井　晃美",
+        "party": "共産",
+        "votes": 18657,
+        "is_winner": false
+      }
+    ],
+    "margin": 10298,
+    "total_votes": 190637
+  },
+  {
+    "id": "大阪_１４区",
+    "prefecture": "大阪",
+    "name": "大阪１４区",
+    "candidates": [
+      {
+        "id": "大阪_１４区_青柳　仁士",
+        "name": "青柳　仁士",
+        "party": "維新",
+        "votes": 95362,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１４区_塩川　憲史",
+        "name": "塩川　憲史",
+        "party": "自民",
+        "votes": 71539,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１４区_内藤　耕一",
+        "name": "内藤　耕一",
+        "party": "共産",
+        "votes": 26534,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１４区_榮井　蘭菜",
+        "name": "榮井　蘭菜",
+        "party": "参政",
+        "votes": 17708,
+        "is_winner": false
+      }
+    ],
+    "margin": 23823,
+    "total_votes": 211143
+  },
+  {
+    "id": "大阪_１５区",
+    "prefecture": "大阪",
+    "name": "大阪１５区",
+    "candidates": [
+      {
+        "id": "大阪_１５区_浦野　靖人",
+        "name": "浦野　靖人",
+        "party": "維新",
+        "votes": 77584,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１５区_島田　智明",
+        "name": "島田　智明",
+        "party": "自民",
+        "votes": 62351,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１５区_松浦　武志",
+        "name": "松浦　武志",
+        "party": "立民",
+        "votes": 28868,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１５区_仲川　学",
+        "name": "仲川　学",
+        "party": "共産",
+        "votes": 19133,
+        "is_winner": false
+      }
+    ],
+    "margin": 15233,
+    "total_votes": 187936
+  },
+  {
+    "id": "大阪_１６区",
+    "prefecture": "大阪",
+    "name": "大阪１６区",
+    "candidates": [
+      {
+        "id": "大阪_１６区_黒田　征樹",
+        "name": "黒田　征樹",
+        "party": "維新",
+        "votes": 63288,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１６区_山本　香苗",
+        "name": "山本　香苗",
+        "party": "公明",
+        "votes": 55474,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１６区_森山　浩行",
+        "name": "森山　浩行",
+        "party": "立民",
+        "votes": 50943,
+        "is_winner": false
+      }
+    ],
+    "margin": 7814,
+    "total_votes": 169705
+  },
+  {
+    "id": "大阪_１７区",
+    "prefecture": "大阪",
+    "name": "大阪１７区",
+    "candidates": [
+      {
+        "id": "大阪_１７区_馬場　伸幸",
+        "name": "馬場　伸幸",
+        "party": "維新",
+        "votes": 82234,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１７区_岡下　昌平",
+        "name": "岡下　昌平",
+        "party": "自民",
+        "votes": 45904,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１７区_沢田　久美子",
+        "name": "沢田　久美子",
+        "party": "共産",
+        "votes": 29130,
+        "is_winner": false
+      }
+    ],
+    "margin": 36330,
+    "total_votes": 157268
+  },
+  {
+    "id": "大阪_１８区",
+    "prefecture": "大阪",
+    "name": "大阪１８区",
+    "candidates": [
+      {
+        "id": "大阪_１８区_遠藤　敬",
+        "name": "遠藤　敬",
+        "party": "維新",
+        "votes": 99973,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１８区_内田　隆嗣",
+        "name": "内田　隆嗣",
+        "party": "自民",
+        "votes": 46366,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１８区_馬場　英樹",
+        "name": "馬場　英樹",
+        "party": "共産",
+        "votes": 27675,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１８区_松岡　能礼",
+        "name": "松岡　能礼",
+        "party": "参政",
+        "votes": 21086,
+        "is_winner": false
+      }
+    ],
+    "margin": 53607,
+    "total_votes": 195100
+  },
+  {
+    "id": "大阪_１９区",
+    "prefecture": "大阪",
+    "name": "大阪１９区",
+    "candidates": [
+      {
+        "id": "大阪_１９区_伊東　信久",
+        "name": "伊東　信久",
+        "party": "維新",
+        "votes": 65726,
+        "is_winner": true
+      },
+      {
+        "id": "大阪_１９区_谷川　とむ",
+        "name": "谷川　とむ",
+        "party": "自民",
+        "votes": 60879,
+        "is_winner": false
+      },
+      {
+        "id": "大阪_１９区_北村　みき",
+        "name": "北村　みき",
+        "party": "共産",
+        "votes": 18966,
+        "is_winner": false
+      }
+    ],
+    "margin": 4847,
+    "total_votes": 145571
+  },
+  {
+    "id": "兵庫_１区",
+    "prefecture": "兵庫",
+    "name": "兵庫１区",
+    "candidates": [
+      {
+        "id": "兵庫_１区_井坂　信彦",
+        "name": "井坂　信彦",
+        "party": "立民",
+        "votes": 91797,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_１区_盛山　正仁",
+        "name": "盛山　正仁",
+        "party": "自民",
+        "votes": 45987,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１区_一谷　勇一郎",
+        "name": "一谷　勇一郎",
+        "party": "維新",
+        "votes": 33430,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１区_藤末　浩美",
+        "name": "藤末　浩美",
+        "party": "共産",
+        "votes": 14247,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１区_山岡　智美",
+        "name": "山岡　智美",
+        "party": "参政",
+        "votes": 12011,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１区_木原　功仁哉",
+        "name": "木原　功仁哉",
+        "party": "無",
+        "votes": 9731,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１区_木島　洋嗣",
+        "name": "木島　洋嗣",
+        "party": "無",
+        "votes": 1914,
+        "is_winner": false
+      }
+    ],
+    "margin": 45810,
+    "total_votes": 209117
+  },
+  {
+    "id": "兵庫_２区",
+    "prefecture": "兵庫",
+    "name": "兵庫２区",
+    "candidates": [
+      {
+        "id": "兵庫_２区_赤羽　一嘉",
+        "name": "赤羽　一嘉",
+        "party": "公明",
+        "votes": 70018,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_２区_阿部　圭史",
+        "name": "阿部　圭史",
+        "party": "維新",
+        "votes": 48289,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_２区_舩川　治郎",
+        "name": "舩川　治郎",
+        "party": "立民",
+        "votes": 39785,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_２区_武内　由美子",
+        "name": "武内　由美子",
+        "party": "共産",
+        "votes": 16333,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_２区_瀬尾　英志",
+        "name": "瀬尾　英志",
+        "party": "参政",
+        "votes": 13954,
+        "is_winner": false
+      }
+    ],
+    "margin": 21729,
+    "total_votes": 188379
+  },
+  {
+    "id": "兵庫_３区",
+    "prefecture": "兵庫",
+    "name": "兵庫３区",
+    "candidates": [
+      {
+        "id": "兵庫_３区_関　芳弘",
+        "name": "関　芳弘",
+        "party": "自民",
+        "votes": 58876,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_３区_向山　好一",
+        "name": "向山　好一",
+        "party": "国民",
+        "votes": 43802,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_３区_和田　有一朗",
+        "name": "和田　有一朗",
+        "party": "維新",
+        "votes": 41050,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_３区_加藤　健二",
+        "name": "加藤　健二",
+        "party": "共産",
+        "votes": 16133,
+        "is_winner": false
+      }
+    ],
+    "margin": 15074,
+    "total_votes": 159861
+  },
+  {
+    "id": "兵庫_４区",
+    "prefecture": "兵庫",
+    "name": "兵庫４区",
+    "candidates": [
+      {
+        "id": "兵庫_４区_藤井　比早之",
+        "name": "藤井　比早之",
+        "party": "自民",
+        "votes": 95635,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_４区_今泉　真緒",
+        "name": "今泉　真緒",
+        "party": "立民",
+        "votes": 61722,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_４区_赤木　正幸",
+        "name": "赤木　正幸",
+        "party": "維新",
+        "votes": 40313,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_４区_日比　優子",
+        "name": "日比　優子",
+        "party": "共産",
+        "votes": 14098,
+        "is_winner": false
+      }
+    ],
+    "margin": 33913,
+    "total_votes": 211768
+  },
+  {
+    "id": "兵庫_５区",
+    "prefecture": "兵庫",
+    "name": "兵庫５区",
+    "candidates": [
+      {
+        "id": "兵庫_５区_谷　公一",
+        "name": "谷　公一",
+        "party": "自民",
+        "votes": 96659,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_５区_田村　直也",
+        "name": "田村　直也",
+        "party": "立民",
+        "votes": 59670,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_５区_遠藤　良太",
+        "name": "遠藤　良太",
+        "party": "維新",
+        "votes": 53793,
+        "is_winner": false
+      }
+    ],
+    "margin": 36989,
+    "total_votes": 210122
+  },
+  {
+    "id": "兵庫_６区",
+    "prefecture": "兵庫",
+    "name": "兵庫６区",
+    "candidates": [
+      {
+        "id": "兵庫_６区_桜井　周",
+        "name": "桜井　周",
+        "party": "立民",
+        "votes": 79061,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_６区_大串　正樹",
+        "name": "大串　正樹",
+        "party": "自民",
+        "votes": 69721,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_６区_市村　浩一郎",
+        "name": "市村　浩一郎",
+        "party": "維新",
+        "votes": 59666,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_６区_伊藤　正哉",
+        "name": "伊藤　正哉",
+        "party": "参政",
+        "votes": 16702,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_６区_吉見　秋彦",
+        "name": "吉見　秋彦",
+        "party": "共産",
+        "votes": 12957,
+        "is_winner": false
+      }
+    ],
+    "margin": 9340,
+    "total_votes": 238107
+  },
+  {
+    "id": "兵庫_７区",
+    "prefecture": "兵庫",
+    "name": "兵庫７区",
+    "candidates": [
+      {
+        "id": "兵庫_７区_山田　賢司",
+        "name": "山田　賢司",
+        "party": "自民",
+        "votes": 80434,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_７区_三木　圭恵",
+        "name": "三木　圭恵",
+        "party": "維新",
+        "votes": 72349,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_７区_岡田　悟",
+        "name": "岡田　悟",
+        "party": "立民",
+        "votes": 61007,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_７区_上田　幸子",
+        "name": "上田　幸子",
+        "party": "共産",
+        "votes": 18409,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_７区_浜本　幸博",
+        "name": "浜本　幸博",
+        "party": "参政",
+        "votes": 14622,
+        "is_winner": false
+      }
+    ],
+    "margin": 8085,
+    "total_votes": 246821
+  },
+  {
+    "id": "兵庫_８区",
+    "prefecture": "兵庫",
+    "name": "兵庫８区",
+    "candidates": [
+      {
+        "id": "兵庫_８区_中野　洋昌",
+        "name": "中野　洋昌",
+        "party": "公明",
+        "votes": 71784,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_８区_徳安　淳子",
+        "name": "徳安　淳子",
+        "party": "維新",
+        "votes": 60150,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_８区_小村　潤",
+        "name": "小村　潤",
+        "party": "共産",
+        "votes": 26873,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_８区_油谷　聖一郎",
+        "name": "油谷　聖一郎",
+        "party": "参政",
+        "votes": 13155,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_８区_やはた　オカン",
+        "name": "やはた　オカン",
+        "party": "れいわ",
+        "votes": 12920,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_８区_林　マリア　ゆき",
+        "name": "林　マリア　ゆき",
+        "party": "みんな",
+        "votes": 2555,
+        "is_winner": false
+      }
+    ],
+    "margin": 11634,
+    "total_votes": 187437
+  },
+  {
+    "id": "兵庫_９区",
+    "prefecture": "兵庫",
+    "name": "兵庫９区",
+    "candidates": [
+      {
+        "id": "兵庫_９区_西村　康稔",
+        "name": "西村　康稔",
+        "party": "無",
+        "votes": 88676,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_９区_橋本　慧悟",
+        "name": "橋本　慧悟",
+        "party": "立民",
+        "votes": 70738,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_９区_加古　貴一郎",
+        "name": "加古　貴一郎",
+        "party": "維新",
+        "votes": 25515,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_９区_高田　良信",
+        "name": "高田　良信",
+        "party": "共産",
+        "votes": 9653,
+        "is_winner": false
+      }
+    ],
+    "margin": 17938,
+    "total_votes": 194582
+  },
+  {
+    "id": "兵庫_１０区",
+    "prefecture": "兵庫",
+    "name": "兵庫１０区",
+    "candidates": [
+      {
+        "id": "兵庫_１０区_渡海　紀三朗",
+        "name": "渡海　紀三朗",
+        "party": "自民",
+        "votes": 70673,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_１０区_隠樹　圭子",
+        "name": "隠樹　圭子",
+        "party": "立民",
+        "votes": 41435,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１０区_掘井　健智",
+        "name": "掘井　健智",
+        "party": "維新",
+        "votes": 30718,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１０区_藤原　誠也",
+        "name": "藤原　誠也",
+        "party": "参政",
+        "votes": 16128,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１０区_吉田　久美子",
+        "name": "吉田　久美子",
+        "party": "共産",
+        "votes": 10528,
+        "is_winner": false
+      }
+    ],
+    "margin": 29238,
+    "total_votes": 169482
+  },
+  {
+    "id": "兵庫_１１区",
+    "prefecture": "兵庫",
+    "name": "兵庫１１区",
+    "candidates": [
+      {
+        "id": "兵庫_１１区_松本　剛明",
+        "name": "松本　剛明",
+        "party": "自民",
+        "votes": 89943,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_１１区_住吉　寛紀",
+        "name": "住吉　寛紀",
+        "party": "維新",
+        "votes": 59738,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１１区_山下　聖",
+        "name": "山下　聖",
+        "party": "参政",
+        "votes": 18261,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１１区_苦瓜　一成",
+        "name": "苦瓜　一成",
+        "party": "共産",
+        "votes": 17397,
+        "is_winner": false
+      }
+    ],
+    "margin": 30205,
+    "total_votes": 185339
+  },
+  {
+    "id": "兵庫_１２区",
+    "prefecture": "兵庫",
+    "name": "兵庫１２区",
+    "candidates": [
+      {
+        "id": "兵庫_１２区_山口　壯",
+        "name": "山口　壯",
+        "party": "自民",
+        "votes": 72374,
+        "is_winner": true
+      },
+      {
+        "id": "兵庫_１２区_池畑　浩太朗",
+        "name": "池畑　浩太朗",
+        "party": "維新",
+        "votes": 56464,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１２区_太田　清幸",
+        "name": "太田　清幸",
+        "party": "共産",
+        "votes": 14006,
+        "is_winner": false
+      },
+      {
+        "id": "兵庫_１２区_山田　敏良",
+        "name": "山田　敏良",
+        "party": "無",
+        "votes": 4932,
+        "is_winner": false
+      }
+    ],
+    "margin": 15910,
+    "total_votes": 147776
+  },
+  {
+    "id": "奈良_１区",
+    "prefecture": "奈良",
+    "name": "奈良１区",
+    "candidates": [
+      {
+        "id": "奈良_１区_馬淵　澄夫",
+        "name": "馬淵　澄夫",
+        "party": "立民",
+        "votes": 90323,
+        "is_winner": true
+      },
+      {
+        "id": "奈良_１区_小林　茂樹",
+        "name": "小林　茂樹",
+        "party": "自民",
+        "votes": 73214,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_１区_高野　敦",
+        "name": "高野　敦",
+        "party": "維新",
+        "votes": 43400,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_１区_井上　良子",
+        "name": "井上　良子",
+        "party": "共産",
+        "votes": 13511,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_１区_林元　政子",
+        "name": "林元　政子",
+        "party": "参政",
+        "votes": 11366,
+        "is_winner": false
+      }
+    ],
+    "margin": 17109,
+    "total_votes": 231814
+  },
+  {
+    "id": "奈良_２区",
+    "prefecture": "奈良",
+    "name": "奈良２区",
+    "candidates": [
+      {
+        "id": "奈良_２区_高市　早苗",
+        "name": "高市　早苗",
+        "party": "自民",
+        "votes": 128554,
+        "is_winner": true
+      },
+      {
+        "id": "奈良_２区_尾崎　充典",
+        "name": "尾崎　充典",
+        "party": "立民",
+        "votes": 36371,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_２区_服部　知佳",
+        "name": "服部　知佳",
+        "party": "維新",
+        "votes": 34354,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_２区_池田　英子",
+        "name": "池田　英子",
+        "party": "共産",
+        "votes": 14313,
+        "is_winner": false
+      }
+    ],
+    "margin": 92183,
+    "total_votes": 213592
+  },
+  {
+    "id": "奈良_３区",
+    "prefecture": "奈良",
+    "name": "奈良３区",
+    "candidates": [
+      {
+        "id": "奈良_３区_田野瀬　太道",
+        "name": "田野瀬　太道",
+        "party": "自民",
+        "votes": 92379,
+        "is_winner": true
+      },
+      {
+        "id": "奈良_３区_原山　大亮",
+        "name": "原山　大亮",
+        "party": "維新",
+        "votes": 41897,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_３区_川戸　康嗣",
+        "name": "川戸　康嗣",
+        "party": "立民",
+        "votes": 33101,
+        "is_winner": false
+      },
+      {
+        "id": "奈良_３区_太田　敦",
+        "name": "太田　敦",
+        "party": "共産",
+        "votes": 20543,
+        "is_winner": false
+      }
+    ],
+    "margin": 50482,
+    "total_votes": 187920
+  },
+  {
+    "id": "和歌山_１区",
+    "prefecture": "和歌山",
+    "name": "和歌山１区",
+    "candidates": [
+      {
+        "id": "和歌山_１区_山本　大地",
+        "name": "山本　大地",
+        "party": "自民",
+        "votes": 70869,
+        "is_winner": true
+      },
+      {
+        "id": "和歌山_１区_林　佑美",
+        "name": "林　佑美",
+        "party": "維新",
+        "votes": 70745,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_１区_村上　賀厚",
+        "name": "村上　賀厚",
+        "party": "立民",
+        "votes": 25067,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_１区_井本　有一",
+        "name": "井本　有一",
+        "party": "共産",
+        "votes": 13665,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_１区_林元　将崇",
+        "name": "林元　将崇",
+        "party": "参政",
+        "votes": 13422,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_１区_正司　武",
+        "name": "正司　武",
+        "party": "諸派",
+        "votes": 1749,
+        "is_winner": false
+      }
+    ],
+    "margin": 124,
+    "total_votes": 195517
+  },
+  {
+    "id": "和歌山_２区",
+    "prefecture": "和歌山",
+    "name": "和歌山２区",
+    "candidates": [
+      {
+        "id": "和歌山_２区_世耕　弘成",
+        "name": "世耕　弘成",
+        "party": "無",
+        "votes": 101739,
+        "is_winner": true
+      },
+      {
+        "id": "和歌山_２区_二階　伸康",
+        "name": "二階　伸康",
+        "party": "自民",
+        "votes": 71114,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_２区_新古　祐子",
+        "name": "新古　祐子",
+        "party": "立民",
+        "votes": 33147,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_２区_楠本　文郎",
+        "name": "楠本　文郎",
+        "party": "共産",
+        "votes": 19062,
+        "is_winner": false
+      },
+      {
+        "id": "和歌山_２区_高橋　秀彰",
+        "name": "高橋　秀彰",
+        "party": "諸派",
+        "votes": 6033,
+        "is_winner": false
+      }
+    ],
+    "margin": 30625,
+    "total_votes": 231095
+  },
+  {
+    "id": "鳥取_１区",
+    "prefecture": "鳥取",
+    "name": "鳥取１区",
+    "candidates": [
+      {
+        "id": "鳥取_１区_石破　茂",
+        "name": "石破　茂",
+        "party": "自民",
+        "votes": 106670,
+        "is_winner": true
+      },
+      {
+        "id": "鳥取_１区_朝倉　浩之",
+        "name": "朝倉　浩之",
+        "party": "立民",
+        "votes": 12389,
+        "is_winner": false
+      },
+      {
+        "id": "鳥取_１区_岡田　正和",
+        "name": "岡田　正和",
+        "party": "共産",
+        "votes": 6220,
+        "is_winner": false
+      }
+    ],
+    "margin": 94281,
+    "total_votes": 125279
+  },
+  {
+    "id": "鳥取_２区",
+    "prefecture": "鳥取",
+    "name": "鳥取２区",
+    "candidates": [
+      {
+        "id": "鳥取_２区_赤沢　亮正",
+        "name": "赤沢　亮正",
+        "party": "自民",
+        "votes": 81526,
+        "is_winner": true
+      },
+      {
+        "id": "鳥取_２区_湯原　俊二",
+        "name": "湯原　俊二",
+        "party": "立民",
+        "votes": 43696,
+        "is_winner": false
+      },
+      {
+        "id": "鳥取_２区_福住　英行",
+        "name": "福住　英行",
+        "party": "共産",
+        "votes": 6655,
+        "is_winner": false
+      }
+    ],
+    "margin": 37830,
+    "total_votes": 131877
+  },
+  {
+    "id": "島根_１区",
+    "prefecture": "島根",
+    "name": "島根１区",
+    "candidates": [
+      {
+        "id": "島根_１区_亀井　亜紀子",
+        "name": "亀井　亜紀子",
+        "party": "立民",
+        "votes": 73484,
+        "is_winner": true
+      },
+      {
+        "id": "島根_１区_高階　恵美子",
+        "name": "高階　恵美子",
+        "party": "自民",
+        "votes": 63238,
+        "is_winner": false
+      },
+      {
+        "id": "島根_１区_村穂　江利子",
+        "name": "村穂　江利子",
+        "party": "共産",
+        "votes": 7142,
+        "is_winner": false
+      }
+    ],
+    "margin": 10246,
+    "total_votes": 143864
+  },
+  {
+    "id": "島根_２区",
+    "prefecture": "島根",
+    "name": "島根２区",
+    "candidates": [
+      {
+        "id": "島根_２区_高見　康裕",
+        "name": "高見　康裕",
+        "party": "自民",
+        "votes": 99829,
+        "is_winner": true
+      },
+      {
+        "id": "島根_２区_大塚　聡子",
+        "name": "大塚　聡子",
+        "party": "立民",
+        "votes": 49302,
+        "is_winner": false
+      },
+      {
+        "id": "島根_２区_亀谷　優子",
+        "name": "亀谷　優子",
+        "party": "共産",
+        "votes": 14983,
+        "is_winner": false
+      }
+    ],
+    "margin": 50527,
+    "total_votes": 164114
+  },
+  {
+    "id": "岡山_１区",
+    "prefecture": "岡山",
+    "name": "岡山１区",
+    "candidates": [
+      {
+        "id": "岡山_１区_逢沢　一郎",
+        "name": "逢沢　一郎",
+        "party": "自民",
+        "votes": 67710,
+        "is_winner": true
+      },
+      {
+        "id": "岡山_１区_原田　謙介",
+        "name": "原田　謙介",
+        "party": "立民",
+        "votes": 51535,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_１区_佐々木　雄司",
+        "name": "佐々木　雄司",
+        "party": "国民",
+        "votes": 22152,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_１区_服部　千秋",
+        "name": "服部　千秋",
+        "party": "維新",
+        "votes": 11094,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_１区_住寄　聡美",
+        "name": "住寄　聡美",
+        "party": "共産",
+        "votes": 8808,
+        "is_winner": false
+      }
+    ],
+    "margin": 16175,
+    "total_votes": 161299
+  },
+  {
+    "id": "岡山_２区",
+    "prefecture": "岡山",
+    "name": "岡山２区",
+    "candidates": [
+      {
+        "id": "岡山_２区_山下　貴司",
+        "name": "山下　貴司",
+        "party": "自民",
+        "votes": 95452,
+        "is_winner": true
+      },
+      {
+        "id": "岡山_２区_津村　啓介",
+        "name": "津村　啓介",
+        "party": "立民",
+        "votes": 91906,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_２区_余江　雪央",
+        "name": "余江　雪央",
+        "party": "共産",
+        "votes": 12762,
+        "is_winner": false
+      }
+    ],
+    "margin": 3546,
+    "total_votes": 200120
+  },
+  {
+    "id": "岡山_３区",
+    "prefecture": "岡山",
+    "name": "岡山３区",
+    "candidates": [
+      {
+        "id": "岡山_３区_加藤　勝信",
+        "name": "加藤　勝信",
+        "party": "自民",
+        "votes": 133389,
+        "is_winner": true
+      },
+      {
+        "id": "岡山_３区_はた　ともこ",
+        "name": "はた　ともこ",
+        "party": "立民",
+        "votes": 59781,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_３区_原田　亜希子",
+        "name": "原田　亜希子",
+        "party": "共産",
+        "votes": 13413,
+        "is_winner": false
+      }
+    ],
+    "margin": 73608,
+    "total_votes": 206583
+  },
+  {
+    "id": "岡山_４区",
+    "prefecture": "岡山",
+    "name": "岡山４区",
+    "candidates": [
+      {
+        "id": "岡山_４区_柚木　道義",
+        "name": "柚木　道義",
+        "party": "立民",
+        "votes": 89149,
+        "is_winner": true
+      },
+      {
+        "id": "岡山_４区_橋本　岳",
+        "name": "橋本　岳",
+        "party": "自民",
+        "votes": 75400,
+        "is_winner": false
+      },
+      {
+        "id": "岡山_４区_垣内　雄一",
+        "name": "垣内　雄一",
+        "party": "共産",
+        "votes": 12648,
+        "is_winner": false
+      }
+    ],
+    "margin": 13749,
+    "total_votes": 177197
+  },
+  {
+    "id": "広島_１区",
+    "prefecture": "広島",
+    "name": "広島１区",
+    "candidates": [
+      {
+        "id": "広島_１区_岸田　文雄",
+        "name": "岸田　文雄",
+        "party": "自民",
+        "votes": 100740,
+        "is_winner": true
+      },
+      {
+        "id": "広島_１区_平本　浩一",
+        "name": "平本　浩一",
+        "party": "立民",
+        "votes": 46493,
+        "is_winner": false
+      },
+      {
+        "id": "広島_１区_山田　肇",
+        "name": "山田　肇",
+        "party": "維新",
+        "votes": 26849,
+        "is_winner": false
+      },
+      {
+        "id": "広島_１区_中原　剛",
+        "name": "中原　剛",
+        "party": "共産",
+        "votes": 12225,
+        "is_winner": false
+      },
+      {
+        "id": "広島_１区_産原　稔文",
+        "name": "産原　稔文",
+        "party": "無",
+        "votes": 5995,
+        "is_winner": false
+      }
+    ],
+    "margin": 54247,
+    "total_votes": 192302
+  },
+  {
+    "id": "広島_２区",
+    "prefecture": "広島",
+    "name": "広島２区",
+    "candidates": [
+      {
+        "id": "広島_２区_平口　洋",
+        "name": "平口　洋",
+        "party": "自民",
+        "votes": 82443,
+        "is_winner": true
+      },
+      {
+        "id": "広島_２区_福田　玄",
+        "name": "福田　玄",
+        "party": "国民",
+        "votes": 61679,
+        "is_winner": false
+      },
+      {
+        "id": "広島_２区_金城　政孝",
+        "name": "金城　政孝",
+        "party": "維新",
+        "votes": 21846,
+        "is_winner": false
+      },
+      {
+        "id": "広島_２区_岡田　博美",
+        "name": "岡田　博美",
+        "party": "共産",
+        "votes": 17354,
+        "is_winner": false
+      }
+    ],
+    "margin": 20764,
+    "total_votes": 183322
+  },
+  {
+    "id": "広島_３区",
+    "prefecture": "広島",
+    "name": "広島３区",
+    "candidates": [
+      {
+        "id": "広島_３区_斉藤　鉄夫",
+        "name": "斉藤　鉄夫",
+        "party": "公明",
+        "votes": 86654,
+        "is_winner": true
+      },
+      {
+        "id": "広島_３区_東　克哉",
+        "name": "東　克哉",
+        "party": "立民",
+        "votes": 71952,
+        "is_winner": false
+      },
+      {
+        "id": "広島_３区_高見　篤己",
+        "name": "高見　篤己",
+        "party": "共産",
+        "votes": 14128,
+        "is_winner": false
+      },
+      {
+        "id": "広島_３区_玉田　憲勲",
+        "name": "玉田　憲勲",
+        "party": "無",
+        "votes": 10751,
+        "is_winner": false
+      }
+    ],
+    "margin": 14702,
+    "total_votes": 183485
+  },
+  {
+    "id": "広島_４区",
+    "prefecture": "広島",
+    "name": "広島４区",
+    "candidates": [
+      {
+        "id": "広島_４区_空本　誠喜",
+        "name": "空本　誠喜",
+        "party": "維新",
+        "votes": 93707,
+        "is_winner": true
+      },
+      {
+        "id": "広島_４区_寺田　稔",
+        "name": "寺田　稔",
+        "party": "自民",
+        "votes": 91653,
+        "is_winner": false
+      }
+    ],
+    "margin": 2054,
+    "total_votes": 185360
+  },
+  {
+    "id": "広島_５区",
+    "prefecture": "広島",
+    "name": "広島５区",
+    "candidates": [
+      {
+        "id": "広島_５区_佐藤　公治",
+        "name": "佐藤　公治",
+        "party": "立民",
+        "votes": 82297,
+        "is_winner": true
+      },
+      {
+        "id": "広島_５区_小島　敏文",
+        "name": "小島　敏文",
+        "party": "自民",
+        "votes": 60796,
+        "is_winner": false
+      },
+      {
+        "id": "広島_５区_猪原　真弓",
+        "name": "猪原　真弓",
+        "party": "共産",
+        "votes": 11106,
+        "is_winner": false
+      }
+    ],
+    "margin": 21501,
+    "total_votes": 154199
+  },
+  {
+    "id": "広島_６区",
+    "prefecture": "広島",
+    "name": "広島６区",
+    "candidates": [
+      {
+        "id": "広島_６区_小林　史明",
+        "name": "小林　史明",
+        "party": "自民",
+        "votes": 97991,
+        "is_winner": true
+      },
+      {
+        "id": "広島_６区_井上　信也",
+        "name": "井上　信也",
+        "party": "立民",
+        "votes": 52852,
+        "is_winner": false
+      },
+      {
+        "id": "広島_６区_重村　幸司",
+        "name": "重村　幸司",
+        "party": "共産",
+        "votes": 12154,
+        "is_winner": false
+      }
+    ],
+    "margin": 45139,
+    "total_votes": 162997
+  },
+  {
+    "id": "山口_１区",
+    "prefecture": "山口",
+    "name": "山口１区",
+    "candidates": [
+      {
+        "id": "山口_１区_高村　正大",
+        "name": "高村　正大",
+        "party": "自民",
+        "votes": 99644,
+        "is_winner": true
+      },
+      {
+        "id": "山口_１区_坂本　史子",
+        "name": "坂本　史子",
+        "party": "立民",
+        "votes": 40237,
+        "is_winner": false
+      },
+      {
+        "id": "山口_１区_野田　陽志",
+        "name": "野田　陽志",
+        "party": "国民",
+        "votes": 31710,
+        "is_winner": false
+      },
+      {
+        "id": "山口_１区_三藤　美智子",
+        "name": "三藤　美智子",
+        "party": "共産",
+        "votes": 11798,
+        "is_winner": false
+      }
+    ],
+    "margin": 59407,
+    "total_votes": 183389
+  },
+  {
+    "id": "山口_２区",
+    "prefecture": "山口",
+    "name": "山口２区",
+    "candidates": [
+      {
+        "id": "山口_２区_岸　信千世",
+        "name": "岸　信千世",
+        "party": "自民",
+        "votes": 104885,
+        "is_winner": true
+      },
+      {
+        "id": "山口_２区_平岡　秀夫",
+        "name": "平岡　秀夫",
+        "party": "立民",
+        "votes": 103161,
+        "is_winner": false
+      }
+    ],
+    "margin": 1724,
+    "total_votes": 208046
+  },
+  {
+    "id": "山口_３区",
+    "prefecture": "山口",
+    "name": "山口３区",
+    "candidates": [
+      {
+        "id": "山口_３区_林　芳正",
+        "name": "林　芳正",
+        "party": "自民",
+        "votes": 115687,
+        "is_winner": true
+      },
+      {
+        "id": "山口_３区_伊藤　博文",
+        "name": "伊藤　博文",
+        "party": "維新",
+        "votes": 32259,
+        "is_winner": false
+      },
+      {
+        "id": "山口_３区_吹上　政子",
+        "name": "吹上　政子",
+        "party": "共産",
+        "votes": 18105,
+        "is_winner": false
+      }
+    ],
+    "margin": 83428,
+    "total_votes": 166051
+  },
+  {
+    "id": "徳島_１区",
+    "prefecture": "徳島",
+    "name": "徳島１区",
+    "candidates": [
+      {
+        "id": "徳島_１区_仁木　博文",
+        "name": "仁木　博文",
+        "party": "自民",
+        "votes": 85386,
+        "is_winner": true
+      },
+      {
+        "id": "徳島_１区_高橋　永",
+        "name": "高橋　永",
+        "party": "立民",
+        "votes": 54839,
+        "is_winner": false
+      },
+      {
+        "id": "徳島_１区_吉田　知代",
+        "name": "吉田　知代",
+        "party": "維新",
+        "votes": 20270,
+        "is_winner": false
+      },
+      {
+        "id": "徳島_１区_久保　孝之",
+        "name": "久保　孝之",
+        "party": "共産",
+        "votes": 8454,
+        "is_winner": false
+      },
+      {
+        "id": "徳島_１区_佐藤　行俊",
+        "name": "佐藤　行俊",
+        "party": "無",
+        "votes": 2318,
+        "is_winner": false
+      }
+    ],
+    "margin": 30547,
+    "total_votes": 171267
+  },
+  {
+    "id": "徳島_２区",
+    "prefecture": "徳島",
+    "name": "徳島２区",
+    "candidates": [
+      {
+        "id": "徳島_２区_山口　俊一",
+        "name": "山口　俊一",
+        "party": "自民",
+        "votes": 55830,
+        "is_winner": true
+      },
+      {
+        "id": "徳島_２区_飯泉　嘉門",
+        "name": "飯泉　嘉門",
+        "party": "無",
+        "votes": 52151,
+        "is_winner": false
+      },
+      {
+        "id": "徳島_２区_祝　聡",
+        "name": "祝　聡",
+        "party": "維新",
+        "votes": 11122,
+        "is_winner": false
+      },
+      {
+        "id": "徳島_２区_濱　共生",
+        "name": "濱　共生",
+        "party": "共産",
+        "votes": 8198,
+        "is_winner": false
+      }
+    ],
+    "margin": 3679,
+    "total_votes": 127301
+  },
+  {
+    "id": "香川_１区",
+    "prefecture": "香川",
+    "name": "香川１区",
+    "candidates": [
+      {
+        "id": "香川_１区_小川　淳也",
+        "name": "小川　淳也",
+        "party": "立民",
+        "votes": 82549,
+        "is_winner": true
+      },
+      {
+        "id": "香川_１区_平井　卓也",
+        "name": "平井　卓也",
+        "party": "自民",
+        "votes": 51727,
+        "is_winner": false
+      },
+      {
+        "id": "香川_１区_町川　順子",
+        "name": "町川　順子",
+        "party": "維新",
+        "votes": 11730,
+        "is_winner": false
+      },
+      {
+        "id": "香川_１区_小林　直美",
+        "name": "小林　直美",
+        "party": "参政",
+        "votes": 9176,
+        "is_winner": false
+      },
+      {
+        "id": "香川_１区_田辺　健一",
+        "name": "田辺　健一",
+        "party": "共産",
+        "votes": 5646,
+        "is_winner": false
+      }
+    ],
+    "margin": 30822,
+    "total_votes": 160828
+  },
+  {
+    "id": "香川_２区",
+    "prefecture": "香川",
+    "name": "香川２区",
+    "candidates": [
+      {
+        "id": "香川_２区_玉木　雄一郎",
+        "name": "玉木　雄一郎",
+        "party": "国民",
+        "votes": 89899,
+        "is_winner": true
+      },
+      {
+        "id": "香川_２区_瀬戸　隆一",
+        "name": "瀬戸　隆一",
+        "party": "自民",
+        "votes": 39006,
+        "is_winner": false
+      },
+      {
+        "id": "香川_２区_石田　真優",
+        "name": "石田　真優",
+        "party": "共産",
+        "votes": 6466,
+        "is_winner": false
+      }
+    ],
+    "margin": 50893,
+    "total_votes": 135371
+  },
+  {
+    "id": "香川_３区",
+    "prefecture": "香川",
+    "name": "香川３区",
+    "candidates": [
+      {
+        "id": "香川_３区_大野　敬太郎",
+        "name": "大野　敬太郎",
+        "party": "自民",
+        "votes": 62545,
+        "is_winner": true
+      },
+      {
+        "id": "香川_３区_大岡　弘美",
+        "name": "大岡　弘美",
+        "party": "立民",
+        "votes": 29900,
+        "is_winner": false
+      },
+      {
+        "id": "香川_３区_細川　修平",
+        "name": "細川　修平",
+        "party": "維新",
+        "votes": 15902,
+        "is_winner": false
+      },
+      {
+        "id": "香川_３区_笹井　孝志",
+        "name": "笹井　孝志",
+        "party": "共産",
+        "votes": 5166,
+        "is_winner": false
+      }
+    ],
+    "margin": 32645,
+    "total_votes": 113513
+  },
+  {
+    "id": "愛媛_１区",
+    "prefecture": "愛媛",
+    "name": "愛媛１区",
+    "candidates": [
+      {
+        "id": "愛媛_１区_塩崎　彰久",
+        "name": "塩崎　彰久",
+        "party": "自民",
+        "votes": 105498,
+        "is_winner": true
+      },
+      {
+        "id": "愛媛_１区_石井　智恵",
+        "name": "石井　智恵",
+        "party": "国民",
+        "votes": 48393,
+        "is_winner": false
+      },
+      {
+        "id": "愛媛_１区_香曽我部　慶教",
+        "name": "香曽我部　慶教",
+        "party": "立民",
+        "votes": 31790,
+        "is_winner": false
+      },
+      {
+        "id": "愛媛_１区_石本　憲一",
+        "name": "石本　憲一",
+        "party": "共産",
+        "votes": 9608,
+        "is_winner": false
+      }
+    ],
+    "margin": 57105,
+    "total_votes": 195289
+  },
+  {
+    "id": "愛媛_２区",
+    "prefecture": "愛媛",
+    "name": "愛媛２区",
+    "candidates": [
+      {
+        "id": "愛媛_２区_白石　洋一",
+        "name": "白石　洋一",
+        "party": "立民",
+        "votes": 102363,
+        "is_winner": true
+      },
+      {
+        "id": "愛媛_２区_井原　巧",
+        "name": "井原　巧",
+        "party": "自民",
+        "votes": 80056,
+        "is_winner": false
+      },
+      {
+        "id": "愛媛_２区_梶野　耕佑",
+        "name": "梶野　耕佑",
+        "party": "維新",
+        "votes": 17417,
+        "is_winner": false
+      }
+    ],
+    "margin": 22307,
+    "total_votes": 199836
+  },
+  {
+    "id": "愛媛_３区",
+    "prefecture": "愛媛",
+    "name": "愛媛３区",
+    "candidates": [
+      {
+        "id": "愛媛_３区_長谷川　淳二",
+        "name": "長谷川　淳二",
+        "party": "自民",
+        "votes": 102587,
+        "is_winner": true
+      },
+      {
+        "id": "愛媛_３区_越智　清純",
+        "name": "越智　清純",
+        "party": "立民",
+        "votes": 50702,
+        "is_winner": false
+      },
+      {
+        "id": "愛媛_３区_西井　直人",
+        "name": "西井　直人",
+        "party": "共産",
+        "votes": 11963,
+        "is_winner": false
+      }
+    ],
+    "margin": 51885,
+    "total_votes": 165252
+  },
+  {
+    "id": "高知_１区",
+    "prefecture": "高知",
+    "name": "高知１区",
+    "candidates": [
+      {
+        "id": "高知_１区_中谷　元",
+        "name": "中谷　元",
+        "party": "自民",
+        "votes": 89110,
+        "is_winner": true
+      },
+      {
+        "id": "高知_１区_武内　則男",
+        "name": "武内　則男",
+        "party": "立民",
+        "votes": 55750,
+        "is_winner": false
+      }
+    ],
+    "margin": 33360,
+    "total_votes": 144860
+  },
+  {
+    "id": "高知_２区",
+    "prefecture": "高知",
+    "name": "高知２区",
+    "candidates": [
+      {
+        "id": "高知_２区_尾崎　正直",
+        "name": "尾崎　正直",
+        "party": "自民",
+        "votes": 102501,
+        "is_winner": true
+      },
+      {
+        "id": "高知_２区_浜川　百合子",
+        "name": "浜川　百合子",
+        "party": "共産",
+        "votes": 43394,
+        "is_winner": false
+      }
+    ],
+    "margin": 59107,
+    "total_votes": 145895
+  },
+  {
+    "id": "福岡_１区",
+    "prefecture": "福岡",
+    "name": "福岡１区",
+    "candidates": [
+      {
+        "id": "福岡_１区_井上　貴博",
+        "name": "井上　貴博",
+        "party": "自民",
+        "votes": 70408,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_１区_丸尾　圭祐",
+        "name": "丸尾　圭祐",
+        "party": "立民",
+        "votes": 55343,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１区_山本　剛正",
+        "name": "山本　剛正",
+        "party": "維新",
+        "votes": 34346,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１区_緒方　貴恵",
+        "name": "緒方　貴恵",
+        "party": "参政",
+        "votes": 18872,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１区_綿貫　英彦",
+        "name": "綿貫　英彦",
+        "party": "共産",
+        "votes": 13107,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１区_村田　峻一",
+        "name": "村田　峻一",
+        "party": "社民",
+        "votes": 8067,
+        "is_winner": false
+      }
+    ],
+    "margin": 15065,
+    "total_votes": 200143
+  },
+  {
+    "id": "福岡_２区",
+    "prefecture": "福岡",
+    "name": "福岡２区",
+    "candidates": [
+      {
+        "id": "福岡_２区_稲富　修二",
+        "name": "稲富　修二",
+        "party": "立民",
+        "votes": 98837,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_２区_鬼木　誠",
+        "name": "鬼木　誠",
+        "party": "自民",
+        "votes": 86698,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_２区_黒石　裕子",
+        "name": "黒石　裕子",
+        "party": "参政",
+        "votes": 16689,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_２区_本司　敬宏",
+        "name": "本司　敬宏",
+        "party": "維新",
+        "votes": 16139,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_２区_松尾　律子",
+        "name": "松尾　律子",
+        "party": "共産",
+        "votes": 10201,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_２区_沖園　理恵",
+        "name": "沖園　理恵",
+        "party": "無",
+        "votes": 7097,
+        "is_winner": false
+      }
+    ],
+    "margin": 12139,
+    "total_votes": 235661
+  },
+  {
+    "id": "福岡_３区",
+    "prefecture": "福岡",
+    "name": "福岡３区",
+    "candidates": [
+      {
+        "id": "福岡_３区_古賀　篤",
+        "name": "古賀　篤",
+        "party": "自民",
+        "votes": 95074,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_３区_仁戸田　元氣",
+        "name": "仁戸田　元氣",
+        "party": "立民",
+        "votes": 65835,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_３区_瀬尾　英昇司",
+        "name": "瀬尾　英昇司",
+        "party": "維新",
+        "votes": 23289,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_３区_奥田　芙美代",
+        "name": "奥田　芙美代",
+        "party": "れいわ",
+        "votes": 22661,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_３区_重松　雄子",
+        "name": "重松　雄子",
+        "party": "参政",
+        "votes": 12887,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_３区_山口　湧人",
+        "name": "山口　湧人",
+        "party": "共産",
+        "votes": 11059,
+        "is_winner": false
+      }
+    ],
+    "margin": 29239,
+    "total_votes": 230805
+  },
+  {
+    "id": "福岡_４区",
+    "prefecture": "福岡",
+    "name": "福岡４区",
+    "candidates": [
+      {
+        "id": "福岡_４区_宮内　秀樹",
+        "name": "宮内　秀樹",
+        "party": "自民",
+        "votes": 68585,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_４区_許斐　亮太郎",
+        "name": "許斐　亮太郎",
+        "party": "国民",
+        "votes": 40753,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_４区_阿部　弘樹",
+        "name": "阿部　弘樹",
+        "party": "維新",
+        "votes": 34572,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_４区_吉松　源昭",
+        "name": "吉松　源昭",
+        "party": "無",
+        "votes": 28915,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_４区_宗　晶子",
+        "name": "宗　晶子",
+        "party": "社民",
+        "votes": 20051,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_４区_行平　佳弘",
+        "name": "行平　佳弘",
+        "party": "参政",
+        "votes": 11401,
+        "is_winner": false
+      }
+    ],
+    "margin": 27832,
+    "total_votes": 204277
+  },
+  {
+    "id": "福岡_５区",
+    "prefecture": "福岡",
+    "name": "福岡５区",
+    "candidates": [
+      {
+        "id": "福岡_５区_栗原　渉",
+        "name": "栗原　渉",
+        "party": "自民",
+        "votes": 105563,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_５区_堤　かなめ",
+        "name": "堤　かなめ",
+        "party": "立民",
+        "votes": 83588,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_５区_松尾　嘉三",
+        "name": "松尾　嘉三",
+        "party": "維新",
+        "votes": 23604,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_５区_タコスキッド",
+        "name": "タコスキッド",
+        "party": "無",
+        "votes": 17691,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_５区_岡部　吉高",
+        "name": "岡部　吉高",
+        "party": "参政",
+        "votes": 15733,
+        "is_winner": false
+      }
+    ],
+    "margin": 21975,
+    "total_votes": 246179
+  },
+  {
+    "id": "福岡_６区",
+    "prefecture": "福岡",
+    "name": "福岡６区",
+    "candidates": [
+      {
+        "id": "福岡_６区_鳩山　二郎",
+        "name": "鳩山　二郎",
+        "party": "自民",
+        "votes": 88197,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_６区_近藤　雅彦",
+        "name": "近藤　雅彦",
+        "party": "国民",
+        "votes": 46997,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_６区_福成　健太",
+        "name": "福成　健太",
+        "party": "維新",
+        "votes": 22779,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_６区_河野　一弘",
+        "name": "河野　一弘",
+        "party": "共産",
+        "votes": 12091,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_６区_古川　恭司",
+        "name": "古川　恭司",
+        "party": "参政",
+        "votes": 11651,
+        "is_winner": false
+      }
+    ],
+    "margin": 41200,
+    "total_votes": 181715
+  },
+  {
+    "id": "福岡_７区",
+    "prefecture": "福岡",
+    "name": "福岡７区",
+    "candidates": [
+      {
+        "id": "福岡_７区_藤丸　敏",
+        "name": "藤丸　敏",
+        "party": "自民",
+        "votes": 79029,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_７区_亀田　晃尚",
+        "name": "亀田　晃尚",
+        "party": "立民",
+        "votes": 47444,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_７区_平島　史朗",
+        "name": "平島　史朗",
+        "party": "共産",
+        "votes": 12307,
+        "is_winner": false
+      }
+    ],
+    "margin": 31585,
+    "total_votes": 138780
+  },
+  {
+    "id": "福岡_８区",
+    "prefecture": "福岡",
+    "name": "福岡８区",
+    "candidates": [
+      {
+        "id": "福岡_８区_麻生　太郎",
+        "name": "麻生　太郎",
+        "party": "自民",
+        "votes": 92534,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_８区_河野　祥子",
+        "name": "河野　祥子",
+        "party": "共産",
+        "votes": 35493,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_８区_森田　俊文",
+        "name": "森田　俊文",
+        "party": "無",
+        "votes": 34407,
+        "is_winner": false
+      }
+    ],
+    "margin": 57041,
+    "total_votes": 162434
+  },
+  {
+    "id": "福岡_９区",
+    "prefecture": "福岡",
+    "name": "福岡９区",
+    "candidates": [
+      {
+        "id": "福岡_９区_緒方　林太郎",
+        "name": "緒方　林太郎",
+        "party": "無",
+        "votes": 102885,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_９区_三原　朝利",
+        "name": "三原　朝利",
+        "party": "無",
+        "votes": 50252,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_９区_山田　博敏",
+        "name": "山田　博敏",
+        "party": "共産",
+        "votes": 13662,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_９区_山本　直緒美",
+        "name": "山本　直緒美",
+        "party": "参政",
+        "votes": 12740,
+        "is_winner": false
+      }
+    ],
+    "margin": 52633,
+    "total_votes": 179539
+  },
+  {
+    "id": "福岡_１０区",
+    "prefecture": "福岡",
+    "name": "福岡１０区",
+    "candidates": [
+      {
+        "id": "福岡_１０区_城井　崇",
+        "name": "城井　崇",
+        "party": "立民",
+        "votes": 71687,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_１０区_吉村　悠",
+        "name": "吉村　悠",
+        "party": "自民",
+        "votes": 54186,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１０区_大石　仁人",
+        "name": "大石　仁人",
+        "party": "無",
+        "votes": 37858,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１０区_一ノ瀬　小夜子",
+        "name": "一ノ瀬　小夜子",
+        "party": "共産",
+        "votes": 11182,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１０区_福本　尭",
+        "name": "福本　尭",
+        "party": "維新",
+        "votes": 11021,
+        "is_winner": false
+      }
+    ],
+    "margin": 17501,
+    "total_votes": 185934
+  },
+  {
+    "id": "福岡_１１区",
+    "prefecture": "福岡",
+    "name": "福岡１１区",
+    "candidates": [
+      {
+        "id": "福岡_１１区_村上　智信",
+        "name": "村上　智信",
+        "party": "維新",
+        "votes": 58842,
+        "is_winner": true
+      },
+      {
+        "id": "福岡_１１区_武田　良太",
+        "name": "武田　良太",
+        "party": "自民",
+        "votes": 56607,
+        "is_winner": false
+      },
+      {
+        "id": "福岡_１１区_志岐　玲子",
+        "name": "志岐　玲子",
+        "party": "社民",
+        "votes": 15297,
+        "is_winner": false
+      }
+    ],
+    "margin": 2235,
+    "total_votes": 130746
+  },
+  {
+    "id": "佐賀_１区",
+    "prefecture": "佐賀",
+    "name": "佐賀１区",
+    "candidates": [
+      {
+        "id": "佐賀_１区_原口　一博",
+        "name": "原口　一博",
+        "party": "立民",
+        "votes": 96083,
+        "is_winner": true
+      },
+      {
+        "id": "佐賀_１区_岩田　和親",
+        "name": "岩田　和親",
+        "party": "自民",
+        "votes": 79723,
+        "is_winner": false
+      }
+    ],
+    "margin": 16360,
+    "total_votes": 175806
+  },
+  {
+    "id": "佐賀_２区",
+    "prefecture": "佐賀",
+    "name": "佐賀２区",
+    "candidates": [
+      {
+        "id": "佐賀_２区_大串　博志",
+        "name": "大串　博志",
+        "party": "立民",
+        "votes": 95581,
+        "is_winner": true
+      },
+      {
+        "id": "佐賀_２区_古川　康",
+        "name": "古川　康",
+        "party": "自民",
+        "votes": 76554,
+        "is_winner": false
+      },
+      {
+        "id": "佐賀_２区_井上　祐輔",
+        "name": "井上　祐輔",
+        "party": "共産",
+        "votes": 7596,
+        "is_winner": false
+      },
+      {
+        "id": "佐賀_２区_下吹越　優也",
+        "name": "下吹越　優也",
+        "party": "参政",
+        "votes": 7108,
+        "is_winner": false
+      }
+    ],
+    "margin": 19027,
+    "total_votes": 186839
+  },
+  {
+    "id": "長崎_１区",
+    "prefecture": "長崎",
+    "name": "長崎１区",
+    "candidates": [
+      {
+        "id": "長崎_１区_西岡　秀子",
+        "name": "西岡　秀子",
+        "party": "国民",
+        "votes": 87784,
+        "is_winner": true
+      },
+      {
+        "id": "長崎_１区_下条　博文",
+        "name": "下条　博文",
+        "party": "自民",
+        "votes": 48382,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_１区_山田　博司",
+        "name": "山田　博司",
+        "party": "維新",
+        "votes": 12836,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_１区_黒石　隆太",
+        "name": "黒石　隆太",
+        "party": "参政",
+        "votes": 9401,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_１区_内田　隆英",
+        "name": "内田　隆英",
+        "party": "共産",
+        "votes": 8679,
+        "is_winner": false
+      }
+    ],
+    "margin": 39402,
+    "total_votes": 167082
+  },
+  {
+    "id": "長崎_２区",
+    "prefecture": "長崎",
+    "name": "長崎２区",
+    "candidates": [
+      {
+        "id": "長崎_２区_加藤　竜祥",
+        "name": "加藤　竜祥",
+        "party": "自民",
+        "votes": 96095,
+        "is_winner": true
+      },
+      {
+        "id": "長崎_２区_山田　勝彦",
+        "name": "山田　勝彦",
+        "party": "立民",
+        "votes": 81808,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_２区_高木　聡子",
+        "name": "高木　聡子",
+        "party": "参政",
+        "votes": 15365,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_２区_横田　朋大",
+        "name": "横田　朋大",
+        "party": "維新",
+        "votes": 14098,
+        "is_winner": false
+      }
+    ],
+    "margin": 14287,
+    "total_votes": 207366
+  },
+  {
+    "id": "長崎_３区",
+    "prefecture": "長崎",
+    "name": "長崎３区",
+    "candidates": [
+      {
+        "id": "長崎_３区_金子　容三",
+        "name": "金子　容三",
+        "party": "自民",
+        "votes": 90930,
+        "is_winner": true
+      },
+      {
+        "id": "長崎_３区_末次　精一",
+        "name": "末次　精一",
+        "party": "立民",
+        "votes": 68494,
+        "is_winner": false
+      },
+      {
+        "id": "長崎_３区_井上　翔一朗",
+        "name": "井上　翔一朗",
+        "party": "維新",
+        "votes": 19217,
+        "is_winner": false
+      }
+    ],
+    "margin": 22436,
+    "total_votes": 178641
+  },
+  {
+    "id": "熊本_１区",
+    "prefecture": "熊本",
+    "name": "熊本１区",
+    "candidates": [
+      {
+        "id": "熊本_１区_木原　稔",
+        "name": "木原　稔",
+        "party": "自民",
+        "votes": 110068,
+        "is_winner": true
+      },
+      {
+        "id": "熊本_１区_出口　慎太郎",
+        "name": "出口　慎太郎",
+        "party": "立民",
+        "votes": 64238,
+        "is_winner": false
+      },
+      {
+        "id": "熊本_１区_重松　貴美",
+        "name": "重松　貴美",
+        "party": "参政",
+        "votes": 25325,
+        "is_winner": false
+      }
+    ],
+    "margin": 45830,
+    "total_votes": 199631
+  },
+  {
+    "id": "熊本_２区",
+    "prefecture": "熊本",
+    "name": "熊本２区",
+    "candidates": [
+      {
+        "id": "熊本_２区_西野　太亮",
+        "name": "西野　太亮",
+        "party": "自民",
+        "votes": 102624,
+        "is_winner": true
+      },
+      {
+        "id": "熊本_２区_近田　茜",
+        "name": "近田　茜",
+        "party": "参政",
+        "votes": 25944,
+        "is_winner": false
+      },
+      {
+        "id": "熊本_２区_奥田　木の実",
+        "name": "奥田　木の実",
+        "party": "共産",
+        "votes": 19469,
+        "is_winner": false
+      }
+    ],
+    "margin": 76680,
+    "total_votes": 148037
+  },
+  {
+    "id": "熊本_３区",
+    "prefecture": "熊本",
+    "name": "熊本３区",
+    "candidates": [
+      {
+        "id": "熊本_３区_坂本　哲志",
+        "name": "坂本　哲志",
+        "party": "自民",
+        "votes": 104684,
+        "is_winner": true
+      },
+      {
+        "id": "熊本_３区_橋村　りか",
+        "name": "橋村　りか",
+        "party": "社民",
+        "votes": 36088,
+        "is_winner": false
+      },
+      {
+        "id": "熊本_３区_植田　貴俊",
+        "name": "植田　貴俊",
+        "party": "参政",
+        "votes": 22958,
+        "is_winner": false
+      }
+    ],
+    "margin": 68596,
+    "total_votes": 163730
+  },
+  {
+    "id": "熊本_４区",
+    "prefecture": "熊本",
+    "name": "熊本４区",
+    "candidates": [
+      {
+        "id": "熊本_４区_金子　恭之",
+        "name": "金子　恭之",
+        "party": "自民",
+        "votes": 119947,
+        "is_winner": true
+      },
+      {
+        "id": "熊本_４区_笹本　由紀子",
+        "name": "笹本　由紀子",
+        "party": "立民",
+        "votes": 49672,
+        "is_winner": false
+      },
+      {
+        "id": "熊本_４区_矢上　雅義",
+        "name": "矢上　雅義",
+        "party": "維新",
+        "votes": 36203,
+        "is_winner": false
+      }
+    ],
+    "margin": 70275,
+    "total_votes": 205822
+  },
+  {
+    "id": "大分_１区",
+    "prefecture": "大分",
+    "name": "大分１区",
+    "candidates": [
+      {
+        "id": "大分_１区_吉良　州司",
+        "name": "吉良　州司",
+        "party": "無",
+        "votes": 96944,
+        "is_winner": true
+      },
+      {
+        "id": "大分_１区_衛藤　博昭",
+        "name": "衛藤　博昭",
+        "party": "自民",
+        "votes": 70584,
+        "is_winner": false
+      },
+      {
+        "id": "大分_１区_野中　しんすけ",
+        "name": "野中　しんすけ",
+        "party": "参政",
+        "votes": 15626,
+        "is_winner": false
+      },
+      {
+        "id": "大分_１区_山下　魁",
+        "name": "山下　魁",
+        "party": "共産",
+        "votes": 14186,
+        "is_winner": false
+      }
+    ],
+    "margin": 26360,
+    "total_votes": 197340
+  },
+  {
+    "id": "大分_２区",
+    "prefecture": "大分",
+    "name": "大分２区",
+    "candidates": [
+      {
+        "id": "大分_２区_広瀬　建",
+        "name": "広瀬　建",
+        "party": "無",
+        "votes": 62699,
+        "is_winner": true
+      },
+      {
+        "id": "大分_２区_吉川　元",
+        "name": "吉川　元",
+        "party": "立民",
+        "votes": 57234,
+        "is_winner": false
+      },
+      {
+        "id": "大分_２区_衛藤　征士郎",
+        "name": "衛藤　征士郎",
+        "party": "自民",
+        "votes": 27553,
+        "is_winner": false
+      }
+    ],
+    "margin": 5465,
+    "total_votes": 147486
+  },
+  {
+    "id": "大分_３区",
+    "prefecture": "大分",
+    "name": "大分３区",
+    "candidates": [
+      {
+        "id": "大分_３区_岩屋　毅",
+        "name": "岩屋　毅",
+        "party": "自民",
+        "votes": 87301,
+        "is_winner": true
+      },
+      {
+        "id": "大分_３区_小林　華弥子",
+        "name": "小林　華弥子",
+        "party": "立民",
+        "votes": 60207,
+        "is_winner": false
+      },
+      {
+        "id": "大分_３区_大塚　光義",
+        "name": "大塚　光義",
+        "party": "共産",
+        "votes": 10550,
+        "is_winner": false
+      }
+    ],
+    "margin": 27094,
+    "total_votes": 158058
+  },
+  {
+    "id": "宮崎_１区",
+    "prefecture": "宮崎",
+    "name": "宮崎１区",
+    "candidates": [
+      {
+        "id": "宮崎_１区_渡辺　創",
+        "name": "渡辺　創",
+        "party": "立民",
+        "votes": 79605,
+        "is_winner": true
+      },
+      {
+        "id": "宮崎_１区_武井　俊輔",
+        "name": "武井　俊輔",
+        "party": "自民",
+        "votes": 49310,
+        "is_winner": false
+      },
+      {
+        "id": "宮崎_１区_外山　斎",
+        "name": "外山　斎",
+        "party": "維新",
+        "votes": 24846,
+        "is_winner": false
+      },
+      {
+        "id": "宮崎_１区_滋井　祐香",
+        "name": "滋井　祐香",
+        "party": "参政",
+        "votes": 17100,
+        "is_winner": false
+      }
+    ],
+    "margin": 30295,
+    "total_votes": 170861
+  },
+  {
+    "id": "宮崎_２区",
+    "prefecture": "宮崎",
+    "name": "宮崎２区",
+    "candidates": [
+      {
+        "id": "宮崎_２区_江藤　拓",
+        "name": "江藤　拓",
+        "party": "自民",
+        "votes": 74367,
+        "is_winner": true
+      },
+      {
+        "id": "宮崎_２区_長友　慎治",
+        "name": "長友　慎治",
+        "party": "国民",
+        "votes": 61603,
+        "is_winner": false
+      },
+      {
+        "id": "宮崎_２区_白江　好友",
+        "name": "白江　好友",
+        "party": "共産",
+        "votes": 6113,
+        "is_winner": false
+      }
+    ],
+    "margin": 12764,
+    "total_votes": 142083
+  },
+  {
+    "id": "宮崎_３区",
+    "prefecture": "宮崎",
+    "name": "宮崎３区",
+    "candidates": [
+      {
+        "id": "宮崎_３区_古川　禎久",
+        "name": "古川　禎久",
+        "party": "自民",
+        "votes": 94009,
+        "is_winner": true
+      },
+      {
+        "id": "宮崎_３区_新村　初代",
+        "name": "新村　初代",
+        "party": "共産",
+        "votes": 24733,
+        "is_winner": false
+      }
+    ],
+    "margin": 69276,
+    "total_votes": 118742
+  },
+  {
+    "id": "鹿児島_１区",
+    "prefecture": "鹿児島",
+    "name": "鹿児島１区",
+    "candidates": [
+      {
+        "id": "鹿児島_１区_川内　博史",
+        "name": "川内　博史",
+        "party": "立民",
+        "votes": 80918,
+        "is_winner": true
+      },
+      {
+        "id": "鹿児島_１区_宮路　拓馬",
+        "name": "宮路　拓馬",
+        "party": "自民",
+        "votes": 78221,
+        "is_winner": false
+      },
+      {
+        "id": "鹿児島_１区_昇　拓真",
+        "name": "昇　拓真",
+        "party": "参政",
+        "votes": 16607,
+        "is_winner": false
+      }
+    ],
+    "margin": 2697,
+    "total_votes": 175746
+  },
+  {
+    "id": "鹿児島_２区",
+    "prefecture": "鹿児島",
+    "name": "鹿児島２区",
+    "candidates": [
+      {
+        "id": "鹿児島_２区_三反園　訓",
+        "name": "三反園　訓",
+        "party": "無",
+        "votes": 80397,
+        "is_winner": true
+      },
+      {
+        "id": "鹿児島_２区_保岡　宏武",
+        "name": "保岡　宏武",
+        "party": "自民",
+        "votes": 54847,
+        "is_winner": false
+      },
+      {
+        "id": "鹿児島_２区_辻　健太郎",
+        "name": "辻　健太郎",
+        "party": "維新",
+        "votes": 19649,
+        "is_winner": false
+      },
+      {
+        "id": "鹿児島_２区_松崎　真琴",
+        "name": "松崎　真琴",
+        "party": "共産",
+        "votes": 12255,
+        "is_winner": false
+      },
+      {
+        "id": "鹿児島_２区_矢竹　ゆかり",
+        "name": "矢竹　ゆかり",
+        "party": "参政",
+        "votes": 7982,
+        "is_winner": false
+      }
+    ],
+    "margin": 25550,
+    "total_votes": 175130
+  },
+  {
+    "id": "鹿児島_３区",
+    "prefecture": "鹿児島",
+    "name": "鹿児島３区",
+    "candidates": [
+      {
+        "id": "鹿児島_３区_野間　健",
+        "name": "野間　健",
+        "party": "立民",
+        "votes": 102762,
+        "is_winner": true
+      },
+      {
+        "id": "鹿児島_３区_小里　泰弘",
+        "name": "小里　泰弘",
+        "party": "自民",
+        "votes": 73630,
+        "is_winner": false
+      }
+    ],
+    "margin": 29132,
+    "total_votes": 176392
+  },
+  {
+    "id": "鹿児島_４区",
+    "prefecture": "鹿児島",
+    "name": "鹿児島４区",
+    "candidates": [
+      {
+        "id": "鹿児島_４区_森山　裕",
+        "name": "森山　裕",
+        "party": "自民",
+        "votes": 111484,
+        "is_winner": true
+      },
+      {
+        "id": "鹿児島_４区_山内　光典",
+        "name": "山内　光典",
+        "party": "社民",
+        "votes": 43412,
+        "is_winner": false
+      }
+    ],
+    "margin": 68072,
+    "total_votes": 154896
+  },
+  {
+    "id": "沖縄_１区",
+    "prefecture": "沖縄",
+    "name": "沖縄１区",
+    "candidates": [
+      {
+        "id": "沖縄_１区_赤嶺　政賢",
+        "name": "赤嶺　政賢",
+        "party": "共産",
+        "votes": 49838,
+        "is_winner": true
+      },
+      {
+        "id": "沖縄_１区_國場　幸之助",
+        "name": "國場　幸之助",
+        "party": "自民",
+        "votes": 42104,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_１区_下地　幹郎",
+        "name": "下地　幹郎",
+        "party": "無",
+        "votes": 29615,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_１区_和田　知久",
+        "name": "和田　知久",
+        "party": "参政",
+        "votes": 9271,
+        "is_winner": false
+      }
+    ],
+    "margin": 7734,
+    "total_votes": 130828
+  },
+  {
+    "id": "沖縄_２区",
+    "prefecture": "沖縄",
+    "name": "沖縄２区",
+    "candidates": [
+      {
+        "id": "沖縄_２区_新垣　邦男",
+        "name": "新垣　邦男",
+        "party": "社民",
+        "votes": 61216,
+        "is_winner": true
+      },
+      {
+        "id": "沖縄_２区_宮崎　政久",
+        "name": "宮崎　政久",
+        "party": "自民",
+        "votes": 47272,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_２区_赤嶺　昇",
+        "name": "赤嶺　昇",
+        "party": "維新",
+        "votes": 22959,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_２区_今野　麻美",
+        "name": "今野　麻美",
+        "party": "参政",
+        "votes": 11813,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_２区_比嘉　隆",
+        "name": "比嘉　隆",
+        "party": "無",
+        "votes": 2374,
+        "is_winner": false
+      }
+    ],
+    "margin": 13944,
+    "total_votes": 145634
+  },
+  {
+    "id": "沖縄_３区",
+    "prefecture": "沖縄",
+    "name": "沖縄３区",
+    "candidates": [
+      {
+        "id": "沖縄_３区_島尻　安伊子",
+        "name": "島尻　安伊子",
+        "party": "自民",
+        "votes": 73226,
+        "is_winner": true
+      },
+      {
+        "id": "沖縄_３区_屋良　朝博",
+        "name": "屋良　朝博",
+        "party": "立民",
+        "votes": 71457,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_３区_新城　司",
+        "name": "新城　司",
+        "party": "参政",
+        "votes": 12242,
+        "is_winner": false
+      }
+    ],
+    "margin": 1769,
+    "total_votes": 156925
+  },
+  {
+    "id": "沖縄_４区",
+    "prefecture": "沖縄",
+    "name": "沖縄４区",
+    "candidates": [
+      {
+        "id": "沖縄_４区_西銘　恒三郎",
+        "name": "西銘　恒三郎",
+        "party": "自民",
+        "votes": 61289,
+        "is_winner": true
+      },
+      {
+        "id": "沖縄_４区_金城　徹",
+        "name": "金城　徹",
+        "party": "立民",
+        "votes": 47248,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_４区_山川　仁",
+        "name": "山川　仁",
+        "party": "れいわ",
+        "votes": 20284,
+        "is_winner": false
+      },
+      {
+        "id": "沖縄_４区_山川　泰博",
+        "name": "山川　泰博",
+        "party": "維新",
+        "votes": 12481,
+        "is_winner": false
+      }
+    ],
+    "margin": 14041,
+    "total_votes": 141302
+  }
+]
